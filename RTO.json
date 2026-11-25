@@ -1,0 +1,16 @@
+{
+ "code": "M468",
+ "connector": "RTO-144",
+ "type": "M468 - 8X1 High level Switcher",
+ "series": null,
+ "contacts": "",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M468/M468.rto144.json"
+ ]
+}
