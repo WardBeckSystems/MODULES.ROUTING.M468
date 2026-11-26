@@ -1,0 +1,48 @@
+{
+ "drawing": "Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf",
+ "page": 7,
+ "version": 1,
+ "trace": "_traces/42cdafd3e37ea08d-p7.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "7", "pages": "12"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.2, 335.5, 431.8],
+ "outlines": {
+  "line": {"rings": 991, "straight": {"n": 7085, "mm": 7505.3}, "curved": {"n": 1301, "mm": 1694.9}},
+  "text": {"rings": 77, "straight": {"n": 370, "mm": 384.9}, "curved": {"n": 103, "mm": 134.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 8,
+  "lines": [
+   {"mm": [124.4, 371.1, 134.3, 378.6], "text": "N'2"},
+   {"mm": [59.2, 370.7, 69.7, 377.7], "text": "R6"},
+   {"mm": [29.8, 214.6, 36.9, 220.8], "text": "C.1"},
+   {"mm": [323.0, 210.7, 333.6, 217.2], "text": "K2."},
+   {"mm": [284.8, 59.2, 305.7, 68.3], "text": "ps"},
+   {"mm": [273.3, 47.7, 295.1, 59.2], "text": "BS"},
+   {"mm": [250.9, 25.3, 269.4, 32.5], "text": "tp"},
+   {"mm": [243.5, 18.1, 264.5, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [291.8, 383.0], "r": 1.4, "lines": 0}, {"c": [291.5, 359.8], "r": 1.4, "lines": 0}, {"c": [53.3, 323.9], "r": 1.5, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–432 mm up",
+  "- **Outlines:** line 991 rings, 7,085 straight (7,505 mm) / 1,301 curved (1,695 mm); text 77 rings, 370 straight (385 mm) / 103 curved (135 mm)",
+  "- **Dots (junctions):** 3",
+  "- **Words (OCR):** 8 in 8 lines: N'2 · R6 · C.1 · K2. · ps · BS · tp · ht"
+ ]
+}

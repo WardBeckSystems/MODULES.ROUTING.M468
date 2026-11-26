@@ -1,0 +1,65 @@
+{
+ "drawing": "Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/42cdafd3e37ea08d-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "12"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 4.9, 335.5, 431.8],
+ "outlines": {
+  "line": {"rings": 88, "straight": {"n": 801, "mm": 1083.2}, "curved": {"n": 112, "mm": 160.1}},
+  "text": {"rings": 349, "straight": {"n": 2831, "mm": 2884.0}, "curved": {"n": 885, "mm": 1352.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 41,
+  "lines": [
+   {"mm": [106.2, 382.8, 186.8, 388.8], "text": "M468 Teehnical Data"},
+   {"mm": [37.8, 345.0, 98.5, 351.0], "text": "Configuration:-"},
+   {"mm": [115.1, 345.0, 150.3, 351.0], "text": "inputs to"},
+   {"mm": [162.6, 345.0, 186.3, 351.0], "text": "output"},
+   {"mm": [37.6, 330.1, 78.2, 336.1], "text": "Latching:-"},
+   {"mm": [106.7, 329.7, 271.2, 335.7], "text": "Self or external by conditional strapping"},
+   {"mm": [38.0, 314.8, 114.2, 320.8], "text": "Power Requirement:-"},
+   {"mm": [123.1, 314.8, 130.0, 321.0], "text": "24"},
+   {"mm": [142.5, 314.8, 202.9, 320.8], "text": "dc unregulated"},
+   {"mm": [123.7, 307.2, 188.9, 313.2], "text": "(negative ground)"},
+   {"mm": [126.7, 299.5, 134.3, 305.2], "text": "40"},
+   {"mm": [138.2, 299.5, 174.9, 305.5], "text": "rna relay"},
+   {"mm": [126.7, 291.9, 134.5, 297.7], "text": "40"},
+   {"mm": [138.2, 291.9, 170.3, 297.9], "text": "rna lamp"},
+   {"mm": [37.4, 276.8, 126.5, 282.8], "text": "Ambient Temperature:-"},
+   {"mm": [138.4, 276.6, 174.2, 282.6], "text": "octo 50"},
+   {"mm": [37.6, 261.7, 86.1, 267.7], "text": "Dimensions:-"},
+   {"mm": [118.5, 261.2, 138.8, 267.2], "text": "1.6\"W"},
+   {"mm": [150.5, 261.2, 170.1, 267.2], "text": "6.625"},
+   {"mm": [138.6, 245.7, 149.4, 252.7], "text": "oz."},
+   {"mm": [37.1, 246.3, 69.7, 252.3], "text": "Weight:-"},
+   {"mm": [126.5, 245.7, 133.9, 252.2], "text": "10"},
+   {"mm": [284.8, 59.2, 305.7, 68.3], "text": "ps"},
+   {"mm": [273.3, 47.7, 295.1, 59.2], "text": "BS"},
+   {"mm": [250.9, 25.3, 269.4, 32.5], "text": "tp"},
+   {"mm": [243.5, 18.1, 264.5, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 5–432 mm up",
+  "- **Outlines:** line 88 rings, 801 straight (1,083 mm) / 112 curved (160 mm); text 349 rings, 2,831 straight (2,884 mm) / 885 curved (1,353 mm)",
+  "- **Words (OCR):** 41 in 26 lines: M468 Teehnical Data · Configuration:- · inputs to · output · Latching:- · Self or external by conditional strapping · Power Requirement:- · 24 · dc unregulated · (negative ground) · 40 · rna relay"
+ ]
+}

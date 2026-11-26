@@ -1,0 +1,75 @@
+{
+ "drawing": "Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf",
+ "page": 11,
+ "version": 1,
+ "trace": "_traces/42cdafd3e37ea08d-p11.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "11", "pages": "12"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, -0.1, 335.6, 431.4],
+ "outlines": {
+  "line": {"rings": 1092, "straight": {"n": 12083, "mm": 14794.8}, "curved": {"n": 2265, "mm": 3426.4}},
+  "text": {"rings": 117, "straight": {"n": 1090, "mm": 1349.1}, "curved": {"n": 244, "mm": 409.8}}
+ },
+ "circles": [
+  {"c": [114.3, 369.0], "r": 4.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [212.3, 303.6], "r": 1.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [301.4, 55.7, 320.7, 68.9], "w": 19.3, "h": 13.2, "from": "ring"},
+  {"mm": [301.3, 41.2, 320.6, 55.1], "w": 19.3, "h": 13.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 40,
+  "lines": [
+   {"mm": [61.7, 301.2, 84.4, 310.3], "text": "VIR~"},
+   {"mm": [26.1, 302.0, 36.3, 308.3], "text": "EE."},
+   {"mm": [38.6, 293.4, 49.0, 300.6], "text": "S>S"},
+   {"mm": [57.9, 250.2, 73.2, 256.7], "text": "SW2"},
+   {"mm": [68.9, 199.1, 77.7, 206.0], "text": "cs"},
+   {"mm": [71.2, 178.5, 86.4, 184.8], "text": "(Nln)"},
+   {"mm": [313.3, 164.7, 316.7, 169.0], "text": "Ll"},
+   {"mm": [68.7, 101.5, 82.3, 107.7], "text": "ES"},
+   {"mm": [60.2, 90.5, 134.3, 97.2], "text": "LETTERS FOR"},
+   {"mm": [183.9, 90.5, 278.1, 97.2], "text": "REFE ENCE ONLY."},
+   {"mm": [150.7, 90.7, 178.1, 97.2], "text": "IJ=lING"},
+   {"mm": [103.2, 80.5, 127.6, 87.2], "text": "ONLY"},
+   {"mm": [146.6, 80.5, 168.0, 87.2], "text": "HEN"},
+   {"mm": [181.4, 80.5, 231.2, 87.2], "text": "EQUIREO."},
+   {"mm": [62.2, 70.8, 91.3, 77.3], "text": "WI-lE t-J"},
+   {"mm": [111.8, 70.8, 138.2, 77.3], "text": "ID IN"},
+   {"mm": [157.8, 70.4, 212.7, 77.8], "text": "RE 5TOR"},
+   {"mm": [230.1, 70.8, 240.3, 77.3], "text": "1=<1"},
+   {"mm": [269.7, 70.8, 279.2, 77.3], "text": "1<;0"},
+   {"mm": [100.4, 60.5, 228.4, 67.4], "text": "OT REOUIRED. JUM EQ"},
+   {"mm": [242.0, 60.5, 255.4, 67.4], "text": "TO"},
+   {"mm": [284.8, 59.2, 305.7, 68.3], "text": "ps"},
+   {"mm": [273.3, 47.7, 295.1, 59.2], "text": "BS"},
+   {"mm": [76.0, 49.9, 105.8, 58.0], "text": "MovE"},
+   {"mm": [125.2, 50.5, 171.6, 57.5], "text": "SEE SCH"},
+   {"mm": [201.9, 50.5, 270.3, 57.5], "text": "IC B46 -C2-"},
+   {"mm": [250.9, 25.3, 269.4, 32.5], "text": "tp"},
+   {"mm": [243.5, 18.1, 264.5, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–431 mm up",
+  "- **Outlines:** line 1,092 rings, 12,083 straight (14,795 mm) / 2,265 curved (3,426 mm); text 117 rings, 1,090 straight (1,349 mm) / 244 curved (410 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 4.9 @ (114.3, 369.0), r 1.3 @ (212.3, 303.6)",
+  "- **Closed boxes:** 2",
+  "- **Words (OCR):** 40 in 28 lines: VIR~ · EE. · S>S · SW2 · cs · (Nln) · Ll · ES · LETTERS FOR · REFE ENCE ONLY. · IJ=lING · ONLY"
+ ]
+}

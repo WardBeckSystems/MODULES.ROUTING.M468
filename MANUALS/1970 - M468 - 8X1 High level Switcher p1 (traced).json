@@ -1,0 +1,56 @@
+{
+ "drawing": "Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/fef788ea9d4e1477-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "12"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.1, 19.0, 335.5, 430.1],
+ "outlines": {
+  "line": {"rings": 35, "straight": {"n": 172, "mm": 237.7}, "curved": {"n": 26, "mm": 37.8}},
+  "text": {"rings": 157, "straight": {"n": 1377, "mm": 1515.9}, "curved": {"n": 369, "mm": 587.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [157.6, 346.5, 176.4, 353.5], "text": "M 468"},
+   {"mm": [120.3, 332.5, 138.6, 340.4], "text": "8 x 1"},
+   {"mm": [140.8, 332.5, 206.6, 340.6], "text": "HIGH LEVEL SHITCHER"},
+   {"mm": [165.2, 125.2, 243.1, 133.6], "text": "Des igned Manufactured"},
+   {"mm": [195.2, 118.7, 203.2, 126.4], "text": "By"},
+   {"mm": [164.7, 112.3, 222.8, 120.1], "text": "Ward-Beck Systems"},
+   {"mm": [225.4, 112.7, 249.8, 120.4], "text": "Limited"},
+   {"mm": [165.2, 106.2, 176.0, 112.7], "text": "841"},
+   {"mm": [178.3, 104.9, 229.9, 113.1], "text": "Progress Avenue"},
+   {"mm": [165.2, 98.2, 233.0, 106.4], "text": "Scarborough , Ontario"},
+   {"mm": [165.2, 84.6, 212.9, 93.5], "text": "(416) 438-6550"}
+  ]
+ },
+ "title_block": {
+  "mm": [158.1, 103.6, 229.5, 128.7],
+  "from": "title-block words (training set)",
+  "text": ["By", "Ward-Beck Systems", "841", "Progress Avenue"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–336 mm across, 19–430 mm up",
+  "- **Outlines:** line 35 rings, 172 straight (238 mm) / 26 curved (37.8 mm); text 157 rings, 1,377 straight (1,516 mm) / 369 curved (588 mm)",
+  "- **Words (OCR):** 14 in 11 lines: M 468 · 8 x 1 · HIGH LEVEL SHITCHER · Des igned Manufactured · By · Ward-Beck Systems · Limited · 841 · Progress Avenue · Scarborough , Ontario · (416) 438-6550",
+  "- **Title block:** (158, 104)–(230, 129) mm: By · Ward-Beck Systems · 841 · Progress Avenue"
+ ]
+}

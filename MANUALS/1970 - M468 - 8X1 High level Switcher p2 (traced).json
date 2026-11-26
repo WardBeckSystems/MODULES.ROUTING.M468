@@ -1,0 +1,61 @@
+{
+ "drawing": "Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/fef788ea9d4e1477-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "12"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 4.9, 335.5, 431.8],
+ "outlines": {
+  "line": {"rings": 95, "straight": {"n": 836, "mm": 1120.8}, "curved": {"n": 122, "mm": 174.7}},
+  "text": {"rings": 342, "straight": {"n": 2796, "mm": 2846.4}, "curved": {"n": 875, "mm": 1338.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 39,
+  "lines": [
+   {"mm": [105.8, 382.1, 187.8, 389.7], "text": "M468 Teehnical Data"},
+   {"mm": [36.9, 343.5, 151.6, 352.3], "text": "Configuration: 8 inputs to"},
+   {"mm": [161.7, 343.9, 187.0, 351.4], "text": "output"},
+   {"mm": [36.7, 328.6, 75.3, 338.7], "text": "Latching:"},
+   {"mm": [106.2, 329.9, 135.2, 336.9], "text": "Self or"},
+   {"mm": [138.2, 328.6, 183.5, 336.9], "text": "external by"},
+   {"mm": [186.1, 328.6, 271.2, 336.9], "text": "conditional strapping"},
+   {"mm": [61.3, 314.1, 151.6, 322.3], "text": "Requirement: 24 dc"},
+   {"mm": [157.6, 312.6, 203.8, 323.2], "text": "unregulated"},
+   {"mm": [37.1, 315.2, 58.7, 321.7], "text": "Power"},
+   {"mm": [123.1, 306.1, 190.4, 314.3], "text": "(negative ground)"},
+   {"mm": [126.3, 299.7, 146.8, 306.1], "text": "40 ma"},
+   {"mm": [153.3, 298.2, 175.7, 307.0], "text": "relay"},
+   {"mm": [126.3, 291.9, 146.8, 298.4], "text": "40 ma"},
+   {"mm": [153.3, 290.2, 171.4, 299.0], "text": "lamp"},
+   {"mm": [37.1, 275.9, 123.1, 283.7], "text": "Ambient Temperature:"},
+   {"mm": [138.2, 276.4, 163.4, 283.3], "text": "0 C to"},
+   {"mm": [166.2, 276.4, 176.0, 283.3], "text": "50"},
+   {"mm": [36.9, 261.2, 82.5, 269.2], "text": "Dimensions:"},
+   {"mm": [118.1, 261.2, 202.9, 268.2], "text": "1.6\"W 6.625\"H X 6\""},
+   {"mm": [37.1, 245.7, 70.6, 253.1], "text": "Weight:-"},
+   {"mm": [126.3, 246.1, 150.3, 253.1], "text": "10 0z."}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 5–432 mm up",
+  "- **Outlines:** line 95 rings, 836 straight (1,121 mm) / 122 curved (175 mm); text 342 rings, 2,796 straight (2,846 mm) / 875 curved (1,338 mm)",
+  "- **Words (OCR):** 39 in 22 lines: M468 Teehnical Data · Configuration: 8 inputs to · output · Latching: · Self or · external by · conditional strapping · Requirement: 24 dc · unregulated · Power · (negative ground) · 40 ma"
+ ]
+}

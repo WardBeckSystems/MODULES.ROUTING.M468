@@ -1,0 +1,74 @@
+{
+ "drawing": "Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf",
+ "page": 9,
+ "version": 1,
+ "trace": "_traces/42cdafd3e37ea08d-p9.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "9", "pages": "12"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 13.9, 335.5, 430.5],
+ "outlines": {
+  "line": {"rings": 524, "straight": {"n": 5343, "mm": 6307.1}, "curved": {"n": 1167, "mm": 1602.8}},
+  "text": {"rings": 110, "straight": {"n": 780, "mm": 869.7}, "curved": {"n": 191, "mm": 295.5}}
+ },
+ "circles": [
+  {"c": [202.3, 112.4], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [70.7, 346.2], "r": 2.6, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [64.2, 365.3], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [62.6, 306.6], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6}
+ ],
+ "boxes": [
+  {"mm": [147.0, 44.0, 264.6, 71.6], "w": 117.6, "h": 27.6, "from": "ring"},
+  {"mm": [89.2, 57.9, 146.3, 71.3], "w": 57.1, "h": 13.4, "from": "ring"},
+  {"mm": [89.2, 44.0, 146.2, 57.4], "w": 57.0, "h": 13.4, "from": "ring"},
+  {"mm": [89.4, 29.4, 146.2, 43.6], "w": 56.8, "h": 14.2, "from": "ring"}
+ ],
+ "text": {
+  "words": 23,
+  "lines": [
+   {"mm": [41.0, 409.8, 59.2, 415.3], "text": "NO _Tel"},
+   {"mm": [191.3, 321.7, 198.8, 326.5], "text": "01"},
+   {"mm": [213.7, 321.5, 225.0, 326.3], "text": "l-r"},
+   {"mm": [218.9, 311.5, 225.8, 316.1], "text": "It."},
+   {"mm": [245.9, 311.3, 255.4, 316.4], "text": "CC"},
+   {"mm": [196.7, 294.9, 205.5, 303.6], "text": "to"},
+   {"mm": [195.6, 286.1, 203.6, 293.3], "text": "11"},
+   {"mm": [254.3, 260.6, 270.1, 267.5], "text": "101£"},
+   {"mm": [301.0, 261.2, 316.3, 266.5], "text": "\",E..N"},
+   {"mm": [326.4, 261.2, 335.5, 266.5], "text": "MO"},
+   {"mm": [297.9, 253.5, 314.4, 259.2], "text": "YS,e"},
+   {"mm": [309.0, 243.1, 333.6, 249.3], "text": "1~E.~Ull"},
+   {"mm": [293.0, 234.0, 303.6, 238.8], "text": "'>Nt"},
+   {"mm": [321.7, 233.8, 336.2, 239.1], "text": ";rUM"},
+   {"mm": [299.2, 225.4, 320.4, 230.9], "text": "I10RTI"},
+   {"mm": [207.9, 175.7, 217.6, 181.5], "text": "CA"},
+   {"mm": [218.9, 167.3, 228.4, 176.0], "text": "u'S"},
+   {"mm": [193.4, 106.9, 203.6, 114.8], "text": "20"},
+   {"mm": [284.8, 59.2, 305.7, 68.3], "text": "ps"},
+   {"mm": [273.3, 47.7, 295.1, 59.2], "text": "BS"},
+   {"mm": [250.9, 25.3, 269.4, 32.5], "text": "tp"},
+   {"mm": [243.5, 18.1, 264.5, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [51.3, 384.8], "r": 1.5, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 14–430 mm up",
+  "- **Outlines:** line 524 rings, 5,343 straight (6,307 mm) / 1,167 curved (1,603 mm); text 110 rings, 780 straight (870 mm) / 191 curved (296 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 3.2 @ (202.3, 112.4), r 2.6 @ (70.7, 346.2), r 2.0 @ (64.2, 365.3), r 1.8 @ (62.6, 306.6)",
+  "- **Closed boxes:** 4",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 23 in 22 lines: NO _Tel · 01 · l-r · It. · CC · to · 11 · 101£ · \",E..N · MO · YS,e · 1~E.~Ull"
+ ]
+}

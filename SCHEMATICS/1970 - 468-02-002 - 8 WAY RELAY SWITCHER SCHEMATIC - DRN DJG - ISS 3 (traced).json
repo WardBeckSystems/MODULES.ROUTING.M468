@@ -1,0 +1,141 @@
+{
+ "drawing": "Modules/ROUTING/M468/SCHEMATICS/1970 - 468-02-002 - 8 WAY RELAY SWITCHER SCHEMATIC - DRN DJG - ISS 3.jpg",
+ "version": 1,
+ "trace": "_traces/5fdb01bc0e72e6e1.svg",
+ "sheet": {
+  "number": "B 468-02-002",
+  "title": "M468 8 WAY / RELAY SWITCHER / SCHEMATIC",
+  "dtype": "02",
+  "type": "schematic",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 2.5, 335.5, 426.4],
+ "outlines": {
+  "line": {"rings": 440, "straight": {"n": 5867, "mm": 5474.5}, "curved": {"n": 1130, "mm": 1292.8}},
+  "text": {"rings": 340, "straight": {"n": 3355, "mm": 3458.7}, "curved": {"n": 854, "mm": 1215.5}},
+  "tb": {"rings": 3, "straight": {"n": 33, "mm": 25.7}, "curved": {"n": 3, "mm": 4.1}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 4499, "straight": {"n": 4675, "mm": 2873.5}, "curved": {"n": 7, "mm": 5.9}},
+   "text": {"paths": 7875, "straight": {"n": 8756, "mm": 5109.7}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 49, "straight": {"n": 51, "mm": 96.9}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 92,
+  "orientation": {"horizontal": {"n": 3576, "mm": 2356.7}, "vertical": {"n": 3395, "mm": 1481.1}, "diagonal": {"n": 6511, "mm": 4242.2}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [138.1, 33.4], "r": 1.9, "kind": "arc", "span": 122, "from": ["centre line"], "start": 238},
+  {"c": [26.5, 28.2], "r": 0.7, "kind": "arc", "span": 166, "from": ["centre line"], "start": 45}
+ ],
+ "boxes": [
+  {"mm": [177.0, 57.9, 334.4, 70.8], "w": 157.4, "h": 13.0, "from": "ring", "words": ["SYSTEIS", "BECK", "LTd.", "WARD"]},
+  {"mm": [176.8, 15.3, 334.4, 56.3], "w": 157.6, "h": 41.0, "from": "ring", "words": ["M462", "8 WAY", "RELAY", "SwATCHER", "SCHEMTiC"]}
+ ],
+ "text": {
+  "words": 64,
+  "lines": [
+   {"mm": [103.6, 330.1, 129.3, 337.3], "text": "AUpIO"},
+   {"mm": [101.0, 320.6, 136.0, 326.8], "text": "OUTPUT"},
+   {"mm": [89.8, 310.2, 177.3, 317.4], "text": "-22abm INTO 600 _"},
+   {"mm": [159.8, 257.8, 182.4, 268.8], "text": "NOIE"},
+   {"mm": [202.9, 260.2, 227.3, 267.8], "text": "WHEN"},
+   {"mm": [236.2, 260.4, 280.9, 268.1], "text": "MODLE 15"},
+   {"mm": [286.1, 260.6, 321.5, 268.7], "text": "JSed IN"},
+   {"mm": [202.5, 251.7, 318.2, 259.9], "text": "SYstemS WheRE No Loss"},
+   {"mm": [202.5, 243.1, 211.6, 249.1], "text": "1S"},
+   {"mm": [218.1, 241.6, 260.6, 250.5], "text": "Required"},
+   {"mm": [266.4, 242.9, 320.4, 251.5], "text": "REPLACE Ri 45"},
+   {"mm": [320.4, 243.3, 333.6, 250.5], "text": "Ris"},
+   {"mm": [231.0, 232.7, 268.8, 240.7], "text": "Jumpers"},
+   {"mm": [273.3, 232.5, 290.2, 240.7], "text": "ANO"},
+   {"mm": [294.9, 233.0, 327.7, 241.4], "text": "REhOvE"},
+   {"mm": [203.4, 233.2, 224.8, 238.7], "text": "Wth"},
+   {"mm": [204.0, 223.5, 288.7, 231.1], "text": "ShORTing JUMPERS"},
+   {"mm": [292.1, 223.9, 313.3, 231.6], "text": "FRom"},
+   {"mm": [0.0, 211.2, 10.1, 219.1], "text": "K8"},
+   {"mm": [203.6, 211.4, 235.3, 221.0], "text": "RELAYS."},
+   {"mm": [117.4, 176.8, 149.6, 184.3], "text": "CANCEL"},
+   {"mm": [123.5, 168.4, 140.1, 175.6], "text": "Bus"},
+   {"mm": [59.2, 112.3, 83.8, 119.5], "text": "+24v"},
+   {"mm": [102.8, 107.3, 116.2, 115.9], "text": "20"},
+   {"mm": [57.0, 63.5, 80.5, 71.9], "text": "FINISH"},
+   {"mm": [218.5, 57.9, 243.5, 71.3], "text": "BECK"},
+   {"mm": [248.7, 56.8, 319.3, 72.1], "text": "SYSTEIS LTd."},
+   {"mm": [8.0, 60.9, 23.5, 67.1], "text": "DJG"},
+   {"mm": [179.4, 57.9, 209.2, 71.1], "text": "WARD"},
+   {"mm": [4.1, 46.9, 37.4, 54.0], "text": "Oct 70"},
+   {"mm": [197.1, 43.2, 228.4, 51.8], "text": "M462"},
+   {"mm": [246.3, 43.2, 276.6, 51.8], "text": "8 WAY"},
+   {"mm": [57.4, 35.2, 90.9, 43.3], "text": "MATERIAL"},
+   {"mm": [186.8, 34.1, 277.0, 43.0], "text": "RELAY SwATCHER"},
+   {"mm": [2.8, 31.1, 27.4, 40.7], "text": "Ra|"},
+   {"mm": [193.4, 26.1, 252.4, 34.3], "text": "SCHEMTiC"},
+   {"mm": [32.8, 6.7, 83.8, 15.3], "text": "1764 DEC TO"},
+   {"mm": [86.1, 7.3, 112.7, 15.3], "text": "PLACES"},
+   {"mm": [115.5, 6.7, 169.9, 15.5], "text": "GIVEN ANGLES"},
+   {"mm": [1.3, 7.1, 24.0, 15.0], "text": "FRACT"},
+   {"mm": [198.6, 2.4, 282.8, 12.6], "text": "408 12 062"},
+   {"mm": [302.3, 3.2, 316.1, 10.9], "text": "ISS:"},
+   {"mm": [0.9, 0.0, 149.0, 9.6], "text": "Ana MINABEND RADUNLESS SPEC ED"}
+  ]
+ },
+ "title_block": {
+  "mm": [172.7, 49.2, 250.3, 268.5],
+  "from": "title-block words (training set)",
+  "text": ["WHEN", "1S", "Required", "Jumpers", "Wth", "ShORTing JUMPERS", "RELAYS.", "BECK", "WARD"]
+ },
+ "dots": [],
+ "nets": {
+  "groups": 26,
+  "wire_runs": 208,
+  "dotted_junctions": 0,
+  "note": "first pass: horizontal / vertical centre-line runs of 0.8 mm or more, joined end to end; groups under 5 mm left out; components (diagonal or curved ink) separate groups; labels are OCR words within 5 mm of a free end; long straight lines along the frame left out",
+  "list": [
+   {"mm": 130.8, "runs": 5, "ends": 3, "bbox": [2.4, 44.7, 56.6, 72.1], "labels": ["DJG", "Oct", "MATERIAL"]},
+   {"mm": 95.9, "runs": 1, "ends": 2, "bbox": [79.2, 71.9, 175.1, 71.9], "labels": ["FINISH", "WARD"]},
+   {"mm": 71.9, "runs": 1, "ends": 2, "bbox": [262.3, 71.7, 334.2, 71.7], "labels": ["BECK", "SYSTEIS", "LTd."]},
+   {"mm": 63.5, "runs": 7, "ends": 4, "bbox": [136.9, 20.3, 177.5, 43.8], "labels": ["RELAY", "ANGLES"]},
+   {"mm": 54.8, "runs": 5, "ends": 2, "bbox": [3.2, 40.6, 56.6, 43.8], "labels": ["Oct", "Ra|", "MATERIAL"]},
+   {"mm": 50.5, "runs": 2, "ends": 2, "bbox": [85.1, 43.4, 135.6, 43.8], "labels": ["MATERIAL"]},
+   {"mm": 44.9, "runs": 6, "ends": 3, "bbox": [167.3, 3.7, 203.2, 15.1], "labels": ["ANGLES", "SCHEMTiC", "408"]},
+   {"mm": 27.9, "runs": 2, "ends": 2, "bbox": [284.3, 55.9, 311.3, 57.2], "labels": ["SYSTEIS", "LTd.", "8 WAY"]},
+   {"mm": 23.3, "runs": 3, "ends": 2, "bbox": [208.1, 14.7, 231.9, 15.1], "labels": ["SCHEMTiC", "408", "12"]},
+   {"mm": 20.7, "runs": 6, "ends": 2, "bbox": [246.3, 14.9, 269.0, 15.1], "labels": ["SCHEMTiC", "12", "062"]},
+   {"mm": 15.8, "runs": 6, "ends": 2, "bbox": [316.3, 57.0, 334.0, 57.2], "labels": ["SYSTEIS", "LTd."]},
+   {"mm": 13.4, "runs": 1, "ends": 2, "bbox": [1.3, 356.7, 14.7, 356.9], "labels": []},
+   {"mm": 12.3, "runs": 1, "ends": 2, "bbox": [0.0, 138.4, 12.3, 138.4], "labels": []},
+   {"mm": 12.3, "runs": 6, "ends": 3, "bbox": [175.7, 3.9, 177.3, 16.8], "labels": ["ANGLES"]},
+   {"mm": 9.3, "runs": 2, "ends": 2, "bbox": [68.7, 14.9, 78.4, 15.1], "labels": ["DEC", "TO", "MINABEND RADUNLESS", "PLACES"]},
+   {"mm": 8.2, "runs": 1, "ends": 2, "bbox": [2.4, 112.1, 10.6, 112.1], "labels": []},
+   {"mm": 8.0, "runs": 3, "ends": 2, "bbox": [312.2, 146.6, 321.0, 146.6], "labels": []},
+   {"mm": 7.6, "runs": 1, "ends": 2, "bbox": [0.2, 299.2, 7.8, 299.2], "labels": []},
+   {"mm": 7.6, "runs": 2, "ends": 2, "bbox": [44.9, 28.9, 52.9, 29.1], "labels": ["MATERIAL"]},
+   {"mm": 7.6, "runs": 2, "ends": 2, "bbox": [73.8, 138.4, 81.4, 138.4], "labels": []},
+   {"mm": 7.1, "runs": 1, "ends": 2, "bbox": [237.9, 14.9, 245.0, 15.1], "labels": ["SCHEMTiC", "12"]},
+   {"mm": 6.7, "runs": 2, "ends": 2, "bbox": [283.5, 14.0, 289.5, 15.1], "labels": ["062"]},
+   {"mm": 6.5, "runs": 1, "ends": 2, "bbox": [56.1, 29.4, 56.6, 35.8], "labels": ["MATERIAL"]},
+   {"mm": 5.8, "runs": 4, "ends": 3, "bbox": [27.0, 27.4, 31.1, 30.0], "labels": ["Ra|", "1764"]},
+   {"mm": 5.6, "runs": 1, "ends": 2, "bbox": [27.4, 356.5, 33.0, 356.9], "labels": []},
+   {"mm": 5.2, "runs": 1, "ends": 2, "bbox": [81.0, 15.1, 86.1, 15.1], "labels": ["TO", "PLACES", "MINABEND RADUNLESS"]}
+  ]
+ },
+ "summary": [
+  "- **Sheet:** schematic B 468-02-002, size B 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 2–426 mm up",
+  "- **Outlines:** line 440 rings, 5,867 straight (5,474 mm) / 1,130 curved (1,293 mm); text 340 rings, 3,355 straight (3,459 mm) / 854 curved (1,216 mm); tb 3 rings, 33 straight (25.7 mm) / 3 curved (4.1 mm)",
+  "- **Centre lines:** 12,423 paths (92 closed); straight 8,080 mm, curved 5.9 mm; horizontal 2,357 mm, vertical 1,481 mm, diagonal 4,242 mm",
+  "- **Circles and arcs:** 0 circles, 2 arcs",
+  "- **Closed boxes:** 2; named: SYSTEIS BECK LTd. WARD; M462 8 WAY RELAY SwATCHER SCHEMTiC",
+  "- **Words (OCR):** 64 in 43 lines: AUpIO · OUTPUT · -22abm INTO 600 _ · NOIE · WHEN · MODLE 15 · JSed IN · SYstemS WheRE No Loss · 1S · Required · REPLACE Ri 45 · Ris",
+  "- **Title block:** (173, 49)–(250, 268) mm: WHEN · 1S · Required · Jumpers · Wth · ShORTing JUMPERS · RELAYS. · BECK · WARD",
+  "- **Wiring (first pass):** 26 connected wire groups from 208 runs; labelled ends: 131 mm → DJG, Oct, MATERIAL; 96 mm → FINISH, WARD; 72 mm → BECK, SYSTEIS, LTd.; 64 mm → RELAY, ANGLES; 55 mm → Oct, Ra|, MATERIAL"
+ ]
+}

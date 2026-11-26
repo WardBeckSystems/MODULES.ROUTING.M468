@@ -1,0 +1,135 @@
+{
+ "drawing": "Modules/ROUTING/M468/MECHANICAL/1984 - 468-03-121 - SWITCH MOUNTING BRACKET - DRN HH - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/fb0eb69bf5710d1c.svg",
+ "sheet": {
+  "number": "B 468-03-121",
+  "title": "SWITCH / MOUNTING / BRACKET",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 11.2, 430.8, 298.2],
+ "outlines": {
+  "line": {"rings": 193, "straight": {"n": 3160, "mm": 8736.8}, "curved": {"n": 402, "mm": 662.7}},
+  "text": {"rings": 268, "straight": {"n": 2212, "mm": 2727.9}, "curved": {"n": 640, "mm": 955.2}},
+  "tb": {"rings": 15, "straight": {"n": 107, "mm": 244.3}, "curved": {"n": 30, "mm": 37.2}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 774, "straight": {"n": 825, "mm": 3421.5}, "curved": {"n": 70, "mm": 116.2}},
+   "text": {"paths": 2684, "straight": {"n": 3293, "mm": 2350.3}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 598, "straight": {"n": 639, "mm": 1033.7}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 39,
+  "orientation": {"horizontal": {"n": 1315, "mm": 3553.0}, "vertical": {"n": 1137, "mm": 1397.8}, "diagonal": {"n": 2305, "mm": 1854.7}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [79.7, 100.0], "r": 4.8, "kind": "arc", "span": 90, "from": ["centre line"], "start": 183},
+  {"c": [145.5, 100.0], "r": 4.6, "kind": "circle", "span": 279, "from": ["centre line"]},
+  {"c": [177.7, 100.1], "r": 4.5, "kind": "circle", "span": 272, "from": ["centre line"]},
+  {"c": [111.8, 99.7], "r": 4.5, "kind": "circle", "span": 360, "from": ["centre line"]},
+  {"c": [79.2, 99.2], "r": 4.2, "kind": "arc", "span": 99, "from": ["centre line"], "start": 277},
+  {"c": [80.5, 99.2], "r": 4.2, "kind": "arc", "span": 190, "from": ["centre line"], "start": 2},
+  {"c": [65.8, 71.3], "r": 1.2, "kind": "circle", "span": 360, "from": ["centre line"]},
+  {"c": [62.5, 72.0], "r": 0.9, "kind": "arc", "span": 183, "from": ["centre line"], "start": 127},
+  {"c": [38.4, 242.0], "r": 0.9, "kind": "arc", "span": 230, "from": ["centre line"], "start": 346}
+ ],
+ "boxes": [
+  {"mm": [346.3, 69.1, 411.7, 75.3], "w": 65.4, "h": 6.3, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [412.3, 69.5, 424.9, 75.3], "w": 12.6, "h": 5.8, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [319.3, 69.1, 332.1, 74.9], "w": 12.7, "h": 5.8, "from": "ring", "in_title_block": true},
+  {"mm": [286.3, 50.5, 424.9, 68.4], "w": 138.6, "h": 17.9, "from": "ring", "words": ["WBS", "WARD-BECK", "SYSTEMS"], "in_title_block": true},
+  {
+   "mm": [319.5, 24.2, 425.3, 50.3],
+   "w": 105.7,
+   "h": 26.1,
+   "from": "ring",
+   "words": ["switch", "Mounting", "BRAckET"],
+   "in_title_block": true
+  },
+  {"mm": [286.3, 43.8, 318.9, 50.0], "w": 32.6, "h": 6.2, "from": "ring", "words": ["DRN: Hh"], "in_title_block": true},
+  {"mm": [286.3, 30.7, 318.9, 36.7], "w": 32.6, "h": 6.0, "from": "ring", "words": ["CKD ERHEY"], "in_title_block": true},
+  {"mm": [286.3, 23.8, 318.9, 30.2], "w": 32.6, "h": 6.4, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [399.4, 11.4, 424.0, 23.7], "w": 24.6, "h": 12.3, "from": "ring", "words": ["ISSUE"]}
+ ],
+ "text": {
+  "words": 38,
+  "lines": [
+   {"mm": [101.3, 263.4, 113.6, 267.7], "text": "960"},
+   {"mm": [233.6, 241.6, 262.3, 248.5], "text": "\"2-S6 THD"},
+   {"mm": [118.5, 240.7, 135.8, 246.2], "text": "4.724"},
+   {"mm": [235.5, 236.0, 261.7, 242.9], "text": "2 PLACES"},
+   {"mm": [337.2, 230.1, 358.8, 237.1], "text": "NQTE:"},
+   {"mm": [337.9, 223.2, 411.9, 230.2], "text": "REMOVE ALLBLRRS &SHARP"},
+   {"mm": [337.7, 218.7, 356.5, 224.2], "text": "EDGES"},
+   {"mm": [337.9, 210.3, 409.8, 216.8], "text": "MATL; 064 ALUMALLOX"},
+   {"mm": [21.2, 202.1, 48.6, 210.2], "text": "400_.675"},
+   {"mm": [337.2, 202.7, 400.9, 209.2], "text": "EIISH: SANB_RQ_SRLL"},
+   {"mm": [360.8, 198.2, 401.4, 203.7], "text": "CLEARALQDLNE"},
+   {"mm": [218.5, 132.6, 271.6, 139.0], "text": "390 DIA . ~4 PLACES"},
+   {"mm": [211.4, 106.9, 229.1, 112.4], "text": "25 TYP."},
+   {"mm": [37.6, 102.1, 48.4, 107.6], "text": "370"},
+   {"mm": [22.9, 96.7, 33.7, 102.2], "text": "800"},
+   {"mm": [195.2, 87.0, 206.0, 91.8], "text": "TVP"},
+   {"mm": [195.6, 91.3, 204.9, 95.6], "text": "45 9"},
+   {"mm": [109.2, 69.7, 149.2, 75.3], "text": "3 PITCHES @ /.182"},
+   {"mm": [319.3, 69.1, 345.2, 74.6], "text": "ISSUE (DATE"},
+   {"mm": [369.0, 69.1, 389.3, 75.8], "text": "REVISION"},
+   {"mm": [414.7, 70.2, 423.4, 74.5], "text": "APP"},
+   {"mm": [112.1, 63.7, 134.1, 69.0], "text": "23.546"},
+   {"mm": [295.4, 54.8, 420.1, 63.0], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [287.4, 44.9, 305.3, 49.2], "text": "DRN: Hh"},
+   {"mm": [356.7, 41.9, 381.1, 48.4], "text": "switch"},
+   {"mm": [286.9, 37.8, 296.0, 42.6], "text": "ENG"},
+   {"mm": [353.9, 34.8, 382.4, 41.2], "text": "Mounting"},
+   {"mm": [286.5, 30.0, 318.5, 37.7], "text": "CKD ERHEY"},
+   {"mm": [357.3, 27.9, 383.2, 34.3], "text": "BRAckET"},
+   {"mm": [287.4, 24.8, 296.6, 29.1], "text": "APP"},
+   {"mm": [296.0, 19.0, 309.6, 23.3], "text": "SCALE"},
+   {"mm": [405.7, 19.0, 418.6, 23.8], "text": "ISSUE"},
+   {"mm": [297.1, 15.8, 305.7, 19.6], "text": "'015"},
+   {"mm": [341.1, 14.5, 380.2, 20.2], "text": "468-03 -12i"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [277.9, 12.8, 431.8, 82.0],
+  "from": "title-block words (training set)",
+  "text": [
+   "ISSUE (DATE",
+   "REVISION",
+   "APP",
+   "WBS WARD-BECK SYSTEMS",
+   "DRN: Hh",
+   "switch",
+   "ENG",
+   "Mounting",
+   "CKD ERHEY",
+   "BRAckET",
+   "APP",
+   "SCALE",
+   "ISSUE",
+   "'015",
+   "468-03 -12i"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical B 468-03-121, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–431 mm across, 11–298 mm up",
+  "- **Outlines:** line 193 rings, 3,160 straight (8,737 mm) / 402 curved (663 mm); text 268 rings, 2,212 straight (2,728 mm) / 640 curved (955 mm); tb 15 rings, 107 straight (244 mm) / 30 curved (37.2 mm)",
+  "- **Centre lines:** 4,056 paths (39 closed); straight 6,806 mm, curved 116 mm; horizontal 3,553 mm, vertical 1,398 mm, diagonal 1,855 mm",
+  "- **Circles and arcs:** 4 circles, 5 arcs; largest r 4.6 @ (145.5, 100.0), r 4.5 @ (177.7, 100.1), r 4.5 @ (111.8, 99.7), r 1.2 @ (65.8, 71.3)",
+  "- **Closed boxes:** 9 (8 in the title block); named: ISSUE",
+  "- **Words (OCR):** 38 in 34 lines: 960 · \"2-S6 THD · 4.724 · 2 PLACES · NQTE: · REMOVE ALLBLRRS &SHARP · EDGES · MATL; 064 ALUMALLOX · 400_.675 · EIISH: SANB_RQ_SRLL · CLEARALQDLNE · 390 DIA . ~4 PLACES",
+  "- **Title block:** (278, 13)–(432, 82) mm: ISSUE (DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: Hh · switch · ENG · Mounting · CKD ERHEY · BRAckET · APP · SCALE · ISSUE · '015 · 468-03 -12i"
+ ]
+}

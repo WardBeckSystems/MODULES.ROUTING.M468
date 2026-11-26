@@ -1,0 +1,57 @@
+{
+ "drawing": "Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/42cdafd3e37ea08d-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "12"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.1, 19.0, 335.5, 430.1],
+ "outlines": {
+  "line": {"rings": 37, "straight": {"n": 183, "mm": 254.5}, "curved": {"n": 32, "mm": 51.6}},
+  "text": {"rings": 155, "straight": {"n": 1366, "mm": 1499.1}, "curved": {"n": 363, "mm": 573.8}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 21,
+  "lines": [
+   {"mm": [158.5, 346.3, 176.8, 353.3], "text": "M468"},
+   {"mm": [142.1, 332.9, 205.5, 340.1], "text": "HIGH LEVEL SWITCHER"},
+   {"mm": [166.0, 125.7, 242.2, 132.6], "text": "Designed Manufactured"},
+   {"mm": [196.3, 118.7, 202.5, 125.7], "text": "By"},
+   {"mm": [165.6, 112.1, 250.4, 119.0], "text": "Ward-Beck Systems Limited"},
+   {"mm": [165.8, 105.4, 228.9, 112.3], "text": "841 Progress Avenue"},
+   {"mm": [165.8, 98.7, 233.0, 105.6], "text": "Scarborough, Ontario"},
+   {"mm": [166.7, 85.3, 212.2, 92.0], "text": "(416) 438-6550"},
+   {"mm": [284.8, 59.2, 305.7, 68.3], "text": "ps"},
+   {"mm": [273.3, 47.7, 295.1, 59.2], "text": "BS"},
+   {"mm": [250.9, 25.3, 269.4, 32.5], "text": "tp"},
+   {"mm": [243.5, 18.1, 264.5, 25.3], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [158.9, 103.4, 229.0, 127.6],
+  "from": "title-block words (training set)",
+  "text": ["By", "Ward-Beck Systems Limited", "841 Progress Avenue"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–336 mm across, 19–430 mm up",
+  "- **Outlines:** line 37 rings, 183 straight (254 mm) / 32 curved (51.6 mm); text 155 rings, 1,366 straight (1,499 mm) / 363 curved (574 mm)",
+  "- **Words (OCR):** 21 in 12 lines: M468 · HIGH LEVEL SWITCHER · Designed Manufactured · By · Ward-Beck Systems Limited · 841 Progress Avenue · Scarborough, Ontario · (416) 438-6550 · ps · BS · tp · ht",
+  "- **Title block:** (159, 103)–(229, 128) mm: By · Ward-Beck Systems Limited · 841 Progress Avenue"
+ ]
+}
