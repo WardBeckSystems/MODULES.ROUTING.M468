@@ -41,7 +41,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Title block:** (137, 16)–(413, 68) mm: Iss MMOD  CKD: · USED ON · MATL _ · WBS WAAD-BeCK · SYSTEMS LTD_ · DRN_ · PA · M468 MA · FINISH · DATE Aug 90 · CKD · AssIGN MoDULE · SCHEMATIC · ISCALE · TOLS _ · IsS
 - **Wiring (first pass):** 65 connected wire groups from 388 runs, 5 dotted junctions; labelled ends: 400 mm → INPUT, Sw1, Sw3, Sw8; 368 mm → RZS, 30k, Rzc, Ri9; 348 mm → InPUT, 3k, Rio, 38K; 323 mm → Pl-R, Sw, InPUT, SwZ; 84 mm → R28, Bok, R29, Pz-k
 
-Every curve, box, word and wire group: [1990 - 468-02-123 - M468MA ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (traced).json](../SCHEMATICS/1990%20-%20468-02-123%20-%20M468MA%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ISS%201%20(traced).json) (the CAD file: `1990 - 468-02-123 - M468MA ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1990 - 468-02-123 - M468MA ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (traced).json](../SCHEMATICS/1990%20-%20468-02-123%20-%20M468MA%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1990 - 468-02-123 - M468MA ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (traced).dxf`).
 
 ## Full text
 

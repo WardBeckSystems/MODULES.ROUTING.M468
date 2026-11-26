@@ -37,7 +37,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Title block:** (278, 14)–(431, 82) mm: ISSUE DATE · REVISION · APP: · WBS WARD-BECK · SYSTEMS · DRN: DB. 5lio/77 · ENG_ PA · M468L · ASSIGNMENT MODULE · CKD · APP · SCHEMATIC · SCALE · ISSUE · 468 - 02-024
 - **Wiring (first pass):** 54 connected wire groups from 365 runs; labelled ends: 550 mm → RIe, R8k, Rok; 534 mm → 30k; 310 mm → Sw7, Sw5, s3; 304 mm → 51B, INPUT 2, Swz, 5W4; 40 mm → OUT
 
-Every curve, box, word and wire group: [1977 - 468-02-024 - M468L ASSIGNMENT MODULE SCHEMATIC - DRN DB - ENG PA - ISS 1 (traced).json](../SCHEMATICS/1977%20-%20468-02-024%20-%20M468L%20ASSIGNMENT%20MODULE%20SCHEMATIC%20-%20DRN%20DB%20-%20ENG%20PA%20-%20ISS%201%20(traced).json) (the CAD file: `1977 - 468-02-024 - M468L ASSIGNMENT MODULE SCHEMATIC - DRN DB - ENG PA - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 468-02-024 - M468L ASSIGNMENT MODULE SCHEMATIC - DRN DB - ENG PA - ISS 1 (traced).json](../SCHEMATICS/1977%20-%20468-02-024%20-%20M468L%20ASSIGNMENT%20MODULE%20SCHEMATIC%20-%20DRN%20DB%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1977 - 468-02-024 - M468L ASSIGNMENT MODULE SCHEMATIC - DRN DB - ENG PA - ISS 1 (traced).dxf`).
 
 ## Full text
 

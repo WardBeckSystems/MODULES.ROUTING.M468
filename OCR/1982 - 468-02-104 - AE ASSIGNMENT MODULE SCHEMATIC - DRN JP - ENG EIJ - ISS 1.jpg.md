@@ -37,7 +37,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Title block:** (278, 15)–(432, 84) mm: lIsSUE |DATE · REVISION · App · WBS · WARD-BECK ByBTEMB · DRN: JP 8/82 · M468 AE · ENG_ EDJ · AsSIGNMENT · MODULE · CKD: · APP · SCHEMATIC · ISSUE · SCALE · 468-02-104
 - **Wiring (first pass):** 55 connected wire groups from 297 runs; labelled ends: 624 mm → PGM?; 141 mm → PGM; 114 mm → PGM?; 104 mm → lIsSUE |DATE; 88 mm → Sisk gisk ?I5K gI5K
 
-Every curve, box, word and wire group: [1982 - 468-02-104 - AE ASSIGNMENT MODULE SCHEMATIC - DRN JP - ENG EIJ - ISS 1 (traced).json](../SCHEMATICS/1982%20-%20468-02-104%20-%20AE%20ASSIGNMENT%20MODULE%20SCHEMATIC%20-%20DRN%20JP%20-%20ENG%20EIJ%20-%20ISS%201%20(traced).json) (the CAD file: `1982 - 468-02-104 - AE ASSIGNMENT MODULE SCHEMATIC - DRN JP - ENG EIJ - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 468-02-104 - AE ASSIGNMENT MODULE SCHEMATIC - DRN JP - ENG EIJ - ISS 1 (traced).json](../SCHEMATICS/1982%20-%20468-02-104%20-%20AE%20ASSIGNMENT%20MODULE%20SCHEMATIC%20-%20DRN%20JP%20-%20ENG%20EIJ%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 468-02-104 - AE ASSIGNMENT MODULE SCHEMATIC - DRN JP - ENG EIJ - ISS 1 (traced).dxf`).
 
 ## Full text
 

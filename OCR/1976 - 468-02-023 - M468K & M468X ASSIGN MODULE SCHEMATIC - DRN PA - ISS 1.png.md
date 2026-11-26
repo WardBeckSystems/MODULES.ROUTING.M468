@@ -41,7 +41,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Title block:** (269, 24)–(377, 66) mm: WBS · WARD-BECK bybtemB LTD. · DRA PA · M468k € M462X · DATEJuly 76 · Assign MODULE · cKD RC
 - **Wiring (first pass):** 92 connected wire groups from 569 runs, 4 dotted junctions; labelled ends: 825 mm → SEDON, cKD, TOLs; 431 mm → input, swG, SwZ, Sw4; 268 mm → Input, Sws; 196 mm → MODULE, SCHEMATIC, 468-02-023, Assign; 116 mm → Js
 
-Every curve, box, word and wire group: [1976 - 468-02-023 - M468K & M468X ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (traced).json](../SCHEMATICS/1976%20-%20468-02-023%20-%20M468K%20%26%20M468X%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ISS%201%20(traced).json) (the CAD file: `1976 - 468-02-023 - M468K & M468X ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 468-02-023 - M468K & M468X ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (traced).json](../SCHEMATICS/1976%20-%20468-02-023%20-%20M468K%20%26%20M468X%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1976 - 468-02-023 - M468K & M468X ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (traced).dxf`).
 
 ## Full text
 

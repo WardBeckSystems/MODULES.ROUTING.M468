@@ -36,7 +36,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Words (OCR):** 38 in 34 lines: 960 · "2-S6 THD · 4.724 · 2 PLACES · NQTE: · REMOVE ALLBLRRS &SHARP · EDGES · MATL; 064 ALUMALLOX · 400_.675 · EIISH: SANB_RQ_SRLL · CLEARALQDLNE · 390 DIA . ~4 PLACES
 - **Title block:** (278, 13)–(432, 82) mm: ISSUE (DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: Hh · switch · ENG · Mounting · CKD ERHEY · BRAckET · APP · SCALE · ISSUE · '015 · 468-03 -12i
 
-Every curve, box, word and wire group: [1984 - 468-03-121 - SWITCH MOUNTING BRACKET - DRN HH - ISS 1 (traced).json](../MECHANICAL/1984%20-%20468-03-121%20-%20SWITCH%20MOUNTING%20BRACKET%20-%20DRN%20HH%20-%20ISS%201%20(traced).json) (the CAD file: `1984 - 468-03-121 - SWITCH MOUNTING BRACKET - DRN HH - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - 468-03-121 - SWITCH MOUNTING BRACKET - DRN HH - ISS 1 (traced).json](../MECHANICAL/1984%20-%20468-03-121%20-%20SWITCH%20MOUNTING%20BRACKET%20-%20DRN%20HH%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1984 - 468-03-121 - SWITCH MOUNTING BRACKET - DRN HH - ISS 1 (traced).dxf`).
 
 ## Full text
 

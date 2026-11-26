@@ -27,6 +27,20 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 
 - **1970** (labelled): `DATE OCt 70` — …24v 20 DS8 DRN 0Jc FINISH WARD BECK M462 RElay S41 SCHEM Ti DATE OCt 70 MATERIAL CHKD R6| SCALE FRACT : 1/64 DEC TO PLACES GIVEN AN…
 
+## Vectors (traced)
+
+- **Sheet:** schematic B 468-?, size B 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–336 mm across, 14–431 mm up
+- **Outlines:** line 447 rings, 5,685 straight (5,372 mm) / 1,039 curved (1,262 mm); text 325 rings, 2,718 straight (2,806 mm) / 642 curved (916 mm); tb 135 rings, 736 straight (656 mm) / 136 curved (159 mm)
+- **Centre lines:** 8,778 paths (71 closed); straight 6,482 mm, curved 124 mm; horizontal 2,138 mm, vertical 1,289 mm, diagonal 3,055 mm
+- **Circles and arcs:** 9 circles, 4 arcs; largest r 2.5 @ (70.7, 274.9), r 2.4 @ (70.9, 400.0), r 2.3 @ (71.3, 391.7), r 2.3 @ (71.0, 338.6)
+- **Closed boxes:** 3 (3 in the title block)
+- **Words (OCR):** 61 in 48 lines: NOTE · NOTE · N? 8 · R/6 · 1Ok · AUDIO · RTe' · oUtPUT · -22 dBm INTO 600 _ · I0 k · NOIE · WHEN MO
+- **Title block:** (61, 9)–(336, 269) mm: NOIE · WHEN MO · SystemS · 1S · Requin · Jum · Wth · ShORTing · k8 · RELAYS. · CANCEL · BUs · +24v · 20 · FINISH · WARD · BECK · DRN 0Jc · DATE OCt 70 · M462 · MATERIAL · RElay · S41 · CHKD · R6| · SC
+- **Wiring (first pass):** 19 connected wire groups from 173 runs; labelled ends: 96 mm → 1Ok; 12 mm → NOTE; 10 mm → N? 8; 8 mm → NOTE; 7 mm → N? 8
+
+Every curve, box, word and wire group: [1970 - B 468 - RELAY SWI... SCHEMATIC - DRN DJG (traced).json](../SCHEMATICS/1970%20-%20B%20468%20-%20RELAY%20SWI...%20SCHEMATIC%20-%20DRN%20DJG%20%28traced%29.json) (the CAD file: `1970 - B 468 - RELAY SWI... SCHEMATIC - DRN DJG (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

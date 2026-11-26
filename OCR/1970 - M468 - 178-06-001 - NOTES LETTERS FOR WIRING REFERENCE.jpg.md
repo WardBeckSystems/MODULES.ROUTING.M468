@@ -23,7 +23,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Words (OCR):** 47 in 35 lines: DSI SwINo) · DSg Sw3 · 'CRKI · cRTZ K3 · cR · SLEEVED WIRE ` · BUsS · 0se · Sw2 · CR · CRK2 · CR
 - **Title block:** (294, 20)–(328, 88) mm: DRN · DATE · CHKD · SCALE
 
-Every curve, box, word and wire group: [1970 - M468 - 178-06-001 - NOTES LETTERS FOR WIRING REFERENCE (traced).json](../SCHEMATICS/1970%20-%20M468%20-%20178-06-001%20-%20NOTES%20LETTERS%20FOR%20WIRING%20REFERENCE%20(traced).json) (the CAD file: `1970 - M468 - 178-06-001 - NOTES LETTERS FOR WIRING REFERENCE (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M468 - 178-06-001 - NOTES LETTERS FOR WIRING REFERENCE (traced).json](../SCHEMATICS/1970%20-%20M468%20-%20178-06-001%20-%20NOTES%20LETTERS%20FOR%20WIRING%20REFERENCE%20%28traced%29.json) (the CAD file: `1970 - M468 - 178-06-001 - NOTES LETTERS FOR WIRING REFERENCE (traced).dxf`).
 
 ## Full text
 

@@ -40,7 +40,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Title block:** (148, 18)–(411, 70) mm: IDss_ MODICKD · USED ON · MATL _ · WBS WARD-BECK systeMs LTD · DRN ELJ · DATE Nov 76 · M468N · FINISH · AssIGN MODULE ScheMaTIC · CKD · SCALE · TOLS · 468 -0z-026 · ISS_
 - **Wiring (first pass):** 39 connected wire groups from 245 runs; labelled ends: 237 mm → TOLS; 186 mm → Rlo, INPUT, R4, RB; 158 mm → Sw4, INPUT; 152 mm → Sw3, Swli; 139 mm → INPUT, 302
 
-Every curve, box, word and wire group: [1976 - 468-02-026 - M468N ASSIGN MODULE SCHEMATIC - DRN ELJ - ISS 1 (traced).json](../SCHEMATICS/1976%20-%20468-02-026%20-%20M468N%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20ELJ%20-%20ISS%201%20(traced).json) (the CAD file: `1976 - 468-02-026 - M468N ASSIGN MODULE SCHEMATIC - DRN ELJ - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 468-02-026 - M468N ASSIGN MODULE SCHEMATIC - DRN ELJ - ISS 1 (traced).json](../SCHEMATICS/1976%20-%20468-02-026%20-%20M468N%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20ELJ%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1976 - 468-02-026 - M468N ASSIGN MODULE SCHEMATIC - DRN ELJ - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -40,7 +40,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Words (OCR):** 65 in 48 lines: 7207 DIA ~2 PLACES · SQUACE CORNER TYR: · 2.087 · 542 · 487 TYP;, · 375 TyP . · 455 · 740 · 4.025 · 005 · 4480 · 66lo
 - **Title block:** (149, 20)–(375, 71) mm: Iss MOD ICKD · USED ON · MATL · WBS WAAD-BECK · 4F · 78 · AL.ALLOY · DRM: MIg · Mn 468P · FMISH · DATE DEC 70 · ALODINE · CKD_AE · ESCUTCHEON · SCALE · TOLS · 885 · 01s · A68 03 ~035
 
-Every curve, box, word and wire group: [1976 - 468-03-035 - M468P ESCUTCHEON - DRN MING - ISS 2 (traced).json](../MECHANICAL/1976%20-%20468-03-035%20-%20M468P%20ESCUTCHEON%20-%20DRN%20MING%20-%20ISS%202%20(traced).json) (the CAD file: `1976 - 468-03-035 - M468P ESCUTCHEON - DRN MING - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 468-03-035 - M468P ESCUTCHEON - DRN MING - ISS 2 (traced).json](../MECHANICAL/1976%20-%20468-03-035%20-%20M468P%20ESCUTCHEON%20-%20DRN%20MING%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1976 - 468-03-035 - M468P ESCUTCHEON - DRN MING - ISS 2 (traced).dxf`).
 
 ## Full text
 

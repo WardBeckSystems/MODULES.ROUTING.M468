@@ -37,7 +37,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Title block:** (268, 19)–(412, 62) mm: WBS · WAAD-BECK BYSTEMB · DRN · M468AY · Assign Module · REvERB · CKD: · SchEMATIC · 'SCAL}
 - **Wiring (first pass):** 84 connected wire groups from 645 runs; labelled ends: 781 mm → MATL _, FINISH; 191 mm → Rb, 27, Rio, Zk; 174 mm → Sclolcue; 156 mm → Sw6; 94 mm → +25v
 
-Every curve, box, word and wire group: [1985 - 468-02-120 - M468AY REVERB ASSIGN MODULE SCHEMATIC - DRN AV handwritten, unclear - ISS 1 (traced).json](../SCHEMATICS/1985%20-%20468-02-120%20-%20M468AY%20REVERB%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20AV%20handwritten%2C%20unclear%20-%20ISS%201%20(traced).json) (the CAD file: `1985 - 468-02-120 - M468AY REVERB ASSIGN MODULE SCHEMATIC - DRN AV handwritten, unclear - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - 468-02-120 - M468AY REVERB ASSIGN MODULE SCHEMATIC - DRN AV handwritten, unclear - ISS 1 (traced).json](../SCHEMATICS/1985%20-%20468-02-120%20-%20M468AY%20REVERB%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20AV%20handwritten%2C%20unclear%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1985 - 468-02-120 - M468AY REVERB ASSIGN MODULE SCHEMATIC - DRN AV handwritten, unclear - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -40,7 +40,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Title block:** (173, 49)–(250, 268) mm: WHEN · 1S · Required · Jumpers · Wth · ShORTing JUMPERS · RELAYS. · BECK · WARD
 - **Wiring (first pass):** 26 connected wire groups from 208 runs; labelled ends: 131 mm → DJG, Oct, MATERIAL; 96 mm → FINISH, WARD; 72 mm → BECK, SYSTEIS, LTd.; 64 mm → RELAY, ANGLES; 55 mm → Oct, Ra|, MATERIAL
 
-Every curve, box, word and wire group: [1970 - 468-02-002 - 8 WAY RELAY SWITCHER SCHEMATIC - DRN DJG - ISS 3 (traced).json](../SCHEMATICS/1970%20-%20468-02-002%20-%208%20WAY%20RELAY%20SWITCHER%20SCHEMATIC%20-%20DRN%20DJG%20-%20ISS%203%20(traced).json) (the CAD file: `1970 - 468-02-002 - 8 WAY RELAY SWITCHER SCHEMATIC - DRN DJG - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 468-02-002 - 8 WAY RELAY SWITCHER SCHEMATIC - DRN DJG - ISS 3 (traced).json](../SCHEMATICS/1970%20-%20468-02-002%20-%208%20WAY%20RELAY%20SWITCHER%20SCHEMATIC%20-%20DRN%20DJG%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1970 - 468-02-002 - 8 WAY RELAY SWITCHER SCHEMATIC - DRN DJG - ISS 3 (traced).dxf`).
 
 ## Full text
 

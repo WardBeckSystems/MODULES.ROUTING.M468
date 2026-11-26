@@ -37,7 +37,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Title block:** (143, 30)–(380, 82) mm: IISS MOD [CKD: · USED ON · MATL. · WBS · WARD-BECK · PA · M468 M · FINISH · Assign MODuLE · CKD: · SCALE · TOLS
 - **Wiring (first pass):** 57 connected wire groups from 342 runs, 3 dotted junctions; labelled ends: 610 mm → InPUT, R2z, Bok, R29; 464 mm → SCHEMATIC, SCALE, TOLS; 152 mm → 30k; 144 mm → Swtt, Sw3, RB; 107 mm → INPUT
 
-Every curve, box, word and wire group: [1976 - 468-02-025 - M468M ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (2) (traced).json](../SCHEMATICS/1976%20-%20468-02-025%20-%20M468M%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ISS%201%20(2)%20(traced).json) (the CAD file: `1976 - 468-02-025 - M468M ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 468-02-025 - M468M ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (2) (traced).json](../SCHEMATICS/1976%20-%20468-02-025%20-%20M468M%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `1976 - 468-02-025 - M468M ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (2) (traced).dxf`).
 
 ## Full text
 

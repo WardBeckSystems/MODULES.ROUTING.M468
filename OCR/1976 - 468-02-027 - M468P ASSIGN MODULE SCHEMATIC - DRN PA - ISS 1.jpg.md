@@ -37,7 +37,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Title block:** (139, 17)–(411, 68) mm: IsS MOD ICKD · USED ON · MATL. · WBS WARD-BECK SYSTEMS LTD_ · DRN PA · DATE Nov 7 6 · M468 P · FINISH · CKD. · ASSIGN MoDuLe · SCHEMATIC · SCALE · TOLS · ISS_
 - **Wiring (first pass):** 50 connected wire groups from 307 runs, 3 dotted junctions; labelled ends: 284 mm → Rib, 3ok, INPUT, R8; 283 mm → Sws, Sw3, INPUT, Swi; 263 mm → SWc, INPUT, SW4, Sw2; 257 mm → INPUT, 30k, Rii, Pio; 41 mm → R8, Out
 
-Every curve, box, word and wire group: [1976 - 468-02-027 - M468P ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (traced).json](../SCHEMATICS/1976%20-%20468-02-027%20-%20M468P%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ISS%201%20(traced).json) (the CAD file: `1976 - 468-02-027 - M468P ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 468-02-027 - M468P ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (traced).json](../SCHEMATICS/1976%20-%20468-02-027%20-%20M468P%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1976 - 468-02-027 - M468P ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (traced).dxf`).
 
 ## Full text
 

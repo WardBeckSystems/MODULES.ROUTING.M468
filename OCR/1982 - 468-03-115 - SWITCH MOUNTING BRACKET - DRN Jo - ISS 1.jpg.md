@@ -36,7 +36,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Words (OCR):** 44 in 37 lines: 5.846 · 5.610 · 4-40 THD · .18 · 2 PLACES · NOTE · REMOVE ALL BURRS? SHARP · 315 · EDCES · MATL 064 · ALUM ALLOY · 1.0
 - **Title block:** (274, 12)–(427, 81) mm: (ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN 42 · Switch · ENG · MounTinG · 22 · BRACKET · APP · SCALE · ISSUE · 468 -03 15
 
-Every curve, box, word and wire group: [1982 - 468-03-115 - SWITCH MOUNTING BRACKET - DRN Jo - ISS 1 (traced).json](../MECHANICAL/1982%20-%20468-03-115%20-%20SWITCH%20MOUNTING%20BRACKET%20-%20DRN%20Jo%20-%20ISS%201%20(traced).json) (the CAD file: `1982 - 468-03-115 - SWITCH MOUNTING BRACKET - DRN Jo - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 468-03-115 - SWITCH MOUNTING BRACKET - DRN Jo - ISS 1 (traced).json](../MECHANICAL/1982%20-%20468-03-115%20-%20SWITCH%20MOUNTING%20BRACKET%20-%20DRN%20Jo%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 468-03-115 - SWITCH MOUNTING BRACKET - DRN Jo - ISS 1 (traced).dxf`).
 
 ## Full text
 

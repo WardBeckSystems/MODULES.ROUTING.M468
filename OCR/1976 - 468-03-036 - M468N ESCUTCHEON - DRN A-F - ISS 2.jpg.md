@@ -35,7 +35,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Words (OCR):** 53 in 44 lines: 1294 · 455 · '740 · 025 · CCs · 4e0 · 2oz DIA ~ 2Holes · 6.6io · (0.990 · Nota · Pexove · 6 SharP EDGES
 - **Title block:** (140, 18)–(412, 68) mm: IsS IMOD. CKD: · USED ON · MATL . · WBS · WARD-BECK SYSTEMS LTD · 22 · AF · VPDATED 400 · Alum Alloy: · DRN · AlF · DATE 30 Oet7e · M46eu · FINISH · ESCUTCHEoN · CKD · Mie · S6E · Notez · SCALE 1:1 · 
 
-Every curve, box, word and wire group: [1976 - 468-03-036 - M468N ESCUTCHEON - DRN A-F - ISS 2 (traced).json](../MECHANICAL/1976%20-%20468-03-036%20-%20M468N%20ESCUTCHEON%20-%20DRN%20A-F%20-%20ISS%202%20(traced).json) (the CAD file: `1976 - 468-03-036 - M468N ESCUTCHEON - DRN A-F - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 468-03-036 - M468N ESCUTCHEON - DRN A-F - ISS 2 (traced).json](../MECHANICAL/1976%20-%20468-03-036%20-%20M468N%20ESCUTCHEON%20-%20DRN%20A-F%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1976 - 468-03-036 - M468N ESCUTCHEON - DRN A-F - ISS 2 (traced).dxf`).
 
 ## Full text
 

@@ -39,7 +39,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Title block:** (140, 17)–(324, 61) mm: ISS MOD  ICKD] · USED ON · MATL · WBS · DRM ' FA · [INSH · DATE Jul 87 · CKD:
 - **Wiring (first pass):** 101 connected wire groups from 716 runs; labelled ends: 141 mm → M4, Sw6; 118 mm → Sk, 2k, Rio; 99 mm → 5w3, Mi; 94 mm → WBS; 75 mm → WBS
 
-Every curve, box, word and wire group: [1987 - 468-02-122 - M468BC REVERB ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (traced).json](../SCHEMATICS/1987%20-%20468-02-122%20-%20M468BC%20REVERB%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ISS%201%20(traced).json) (the CAD file: `1987 - 468-02-122 - M468BC REVERB ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - 468-02-122 - M468BC REVERB ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (traced).json](../SCHEMATICS/1987%20-%20468-02-122%20-%20M468BC%20REVERB%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1987 - 468-02-122 - M468BC REVERB ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (traced).dxf`).
 
 ## Full text
 

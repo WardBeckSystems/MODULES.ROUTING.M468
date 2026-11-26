@@ -27,7 +27,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Words (OCR):** 63 in 46 lines: Sws(No) · '3(o) · swz(nl) · 035 · 057 · Q1 · CR · K5 13 14 CR · CR · K7 · I0 · CR
 - **Title block:** (172, 60)–(251, 91) mm: WARD BECK
 
-Every curve, box, word and wire group: [1970 - M468 - 178-06-001 - BEND RAD UNLESS SPECIFED (traced).json](../SCHEMATICS/1970%20-%20M468%20-%20178-06-001%20-%20BEND%20RAD%20UNLESS%20SPECIFED%20(traced).json) (the CAD file: `1970 - M468 - 178-06-001 - BEND RAD UNLESS SPECIFED (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M468 - 178-06-001 - BEND RAD UNLESS SPECIFED (traced).json](../SCHEMATICS/1970%20-%20M468%20-%20178-06-001%20-%20BEND%20RAD%20UNLESS%20SPECIFED%20%28traced%29.json) (the CAD file: `1970 - M468 - 178-06-001 - BEND RAD UNLESS SPECIFED (traced).dxf`).
 
 ## Full text
 

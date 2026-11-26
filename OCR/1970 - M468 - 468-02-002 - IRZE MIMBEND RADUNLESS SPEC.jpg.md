@@ -24,7 +24,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Title block:** (61, 9)–(336, 81) mm: FINISH · WARD · BECK · DRN DJG · DATE Oet J0 · M462 · MATERIAL · RELAY · Swi · CHKD ReL · SCHEM+Ti · SCALE · FRACT : 1/64 DEC TO · PLACES · GIVEN ANGLES · 408
 - **Wiring (first pass):** 9 connected wire groups from 144 runs; labelled ends: 106 mm → 1Ok; 11 mm → NOTE; 10 mm → N? 8
 
-Every curve, box, word and wire group: [1970 - M468 - 468-02-002 - IRZE MIMBEND RADUNLESS SPEC (traced).json](../SCHEMATICS/1970%20-%20M468%20-%20468-02-002%20-%20IRZE%20MIMBEND%20RADUNLESS%20SPEC%20(traced).json) (the CAD file: `1970 - M468 - 468-02-002 - IRZE MIMBEND RADUNLESS SPEC (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M468 - 468-02-002 - IRZE MIMBEND RADUNLESS SPEC (traced).json](../SCHEMATICS/1970%20-%20M468%20-%20468-02-002%20-%20IRZE%20MIMBEND%20RADUNLESS%20SPEC%20%28traced%29.json) (the CAD file: `1970 - M468 - 468-02-002 - IRZE MIMBEND RADUNLESS SPEC (traced).dxf`).
 
 ## Full text
 

@@ -35,7 +35,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Dots (junctions):** 2
 - **Wiring (first pass):** 60 connected wire groups from 531 runs, 2 dotted junctions
 
-Every curve, box, word and wire group: [1976 - 468-02-025 - M468M ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (traced).json](../SCHEMATICS/1976%20-%20468-02-025%20-%20M468M%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ISS%201%20(traced).json) (the CAD file: `1976 - 468-02-025 - M468M ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 468-02-025 - M468M ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (traced).json](../SCHEMATICS/1976%20-%20468-02-025%20-%20M468M%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1976 - 468-02-025 - M468M ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (traced).dxf`).
 
 ## Full text
 

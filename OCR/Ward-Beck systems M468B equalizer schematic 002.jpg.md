@@ -16,6 +16,19 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Size:** 1,321,292 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 323 mm, 2000 × 1494 px traced (0.216 mm/px)
+- **Ink extent:** 0–432 mm across, 0–323 mm up
+- **Outlines:** line 1,250 rings, 13,908 straight (19,245 mm) / 2,662 curved (3,259 mm); text 440 rings, 3,716 straight (4,528 mm) / 1,032 curved (1,575 mm); tb 44 rings, 442 straight (756 mm) / 93 curved (151 mm)
+- **Centre lines:** 33,999 paths (197 closed); straight 21,113 mm, curved 204 mm; horizontal 3,036 mm, vertical 2,240 mm, diagonal 15,837 mm
+- **Circles and arcs:** 1 circles, 44 arcs; largest r 1.3 @ (139.3, 158.7)
+- **Words (OCR):** 71 in 59 lines: 23 · REGEEn · 35- · Tipzcb · JELE · 36 · 5p · 25V+ · Rso V2 · 2i V- · 045 · 6.816
+- **Title block:** (147, 50)–(385, 138) mm: 2E2 · R49 · WARD-BeCk M462B SCHEMAZ · Gk2 · WBS EQUALIZER · DRN. [DATE · MATL · USED · ISCALE · 'Tols _ · CKD: · FINISH · TMODI Eiz
+- **Wiring (first pass):** 13 connected wire groups from 366 runs; labelled ends: 13 mm → Tipzcb; 7 mm → 34; 6 mm → JELE; 6 mm → Sw?, -25', R48, JNSERT; 6 mm → Sw?, JNSERT
+
+Every curve, box, word and wire group: [Ward-Beck systems M468B equalizer schematic 002 (traced).json](../SCHEMATICS/Ward-Beck%20systems%20M468B%20equalizer%20schematic%20002%20%28traced%29.json) (the CAD file: `Ward-Beck systems M468B equalizer schematic 002 (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

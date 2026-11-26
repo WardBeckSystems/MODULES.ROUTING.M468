@@ -40,7 +40,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Words (OCR):** 72 in 52 lines: TAP# 4-40 UNC · See Note · PLAces (4) · I0 · 5.55 · 200 · 35 · 75 · 4.250 · 128 DIA, CSk · To.23 DIA · TAP 2-56 UNc_
 - **Title block:** (140, 18)–(412, 69) mm: IsS MOD [CKD: · USEDON · MAT'L. · STEEL Crca · WBS WARD-BECK SYSTEMS LTD_ · M 4684 · I6GA 059 · DRN AlF · DATE SNov 73 · EscuTcHEoN Mre PlATz · FINISH · CKD. · Da · Bright CAD · SCALE Full · 285 · TOL
 
-Every curve, box, word and wire group: [1973 - 468-03-002 - ESCUTCHEON MTG PLATE - DRN ALF - ISS 1 (traced).json](../MECHANICAL/1973%20-%20468-03-002%20-%20ESCUTCHEON%20MTG%20PLATE%20-%20DRN%20ALF%20-%20ISS%201%20(traced).json) (the CAD file: `1973 - 468-03-002 - ESCUTCHEON MTG PLATE - DRN ALF - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 468-03-002 - ESCUTCHEON MTG PLATE - DRN ALF - ISS 1 (traced).json](../MECHANICAL/1973%20-%20468-03-002%20-%20ESCUTCHEON%20MTG%20PLATE%20-%20DRN%20ALF%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1973 - 468-03-002 - ESCUTCHEON MTG PLATE - DRN ALF - ISS 1 (traced).dxf`).
 
 ## Full text
 

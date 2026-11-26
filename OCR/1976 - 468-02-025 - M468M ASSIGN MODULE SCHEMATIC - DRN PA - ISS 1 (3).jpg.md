@@ -39,7 +39,7 @@ Schematic of an assign module with switch banks.
 - **Title block:** (140, 17)–(413, 68) mm: ISS MOD [CKD: · USED ON · MATL . · WBS WARD-BECK · SYSTEMS · DRN: · PA · DATE SePr 76 · M468M · FINISH · SCHEMATIC · CKD · AssiGN MoDuLE · SCALE · TOLS _ · ISS.
 - **Wiring (first pass):** 50 connected wire groups from 307 runs, 3 dotted junctions; labelled ends: 308 mm → SW 7, InpUT, Vis, Sw3; 302 mm → Sw8, inpUt, SwA, 38K; 300 mm → 20, InpUT, RB, 30k; 256 mm → R2z, 30k, R29, Bk; 64 mm → 21, inpUt, Bk
 
-Every curve, box, word and wire group: [1976 - 468-02-025 - M468M ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (3) (traced).json](../SCHEMATICS/1976%20-%20468-02-025%20-%20M468M%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ISS%201%20(3)%20(traced).json) (the CAD file: `1976 - 468-02-025 - M468M ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (3) (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 468-02-025 - M468M ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (3) (traced).json](../SCHEMATICS/1976%20-%20468-02-025%20-%20M468M%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ISS%201%20%283%29%20%28traced%29.json) (the CAD file: `1976 - 468-02-025 - M468M ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (3) (traced).dxf`).
 
 ## Full text
 

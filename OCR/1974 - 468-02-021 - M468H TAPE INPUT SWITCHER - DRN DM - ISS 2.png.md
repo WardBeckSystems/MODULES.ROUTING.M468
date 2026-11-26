@@ -37,7 +37,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Title block:** (268, 16)–(376, 63) mm: WARD-BECK · WBS · DRN · 20 · M468H · DATE AvaZ1 · CKD · TAPE · [SCALE · Bl468-02-021 ISS_ · TOLS
 - **Wiring (first pass):** 93 connected wire groups from 439 runs, 3 dotted junctions; labelled ends: 905 mm → WBS, DRN, DATE AvaZ1, CKD; 62 mm → SW2, 16; 62 mm → N12; 61 mm → 15; 59 mm → Swii
 
-Every curve, box, word and wire group: [1974 - 468-02-021 - M468H TAPE INPUT SWITCHER - DRN DM - ISS 2 (traced).json](../SCHEMATICS/1974%20-%20468-02-021%20-%20M468H%20TAPE%20INPUT%20SWITCHER%20-%20DRN%20DM%20-%20ISS%202%20(traced).json) (the CAD file: `1974 - 468-02-021 - M468H TAPE INPUT SWITCHER - DRN DM - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - 468-02-021 - M468H TAPE INPUT SWITCHER - DRN DM - ISS 2 (traced).json](../SCHEMATICS/1974%20-%20468-02-021%20-%20M468H%20TAPE%20INPUT%20SWITCHER%20-%20DRN%20DM%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1974 - 468-02-021 - M468H TAPE INPUT SWITCHER - DRN DM - ISS 2 (traced).dxf`).
 
 ## Full text
 

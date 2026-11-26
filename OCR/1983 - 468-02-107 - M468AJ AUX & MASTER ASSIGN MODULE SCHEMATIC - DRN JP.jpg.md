@@ -37,7 +37,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Title block:** (359, 28)–(432, 45) mm: REVISION · WBS · WARD-BECk SysteMS
 - **Wiring (first pass):** 101 connected wire groups from 686 runs, 2 dotted junctions; labelled ends: 118 mm → R2s {15, YELLOY; 107 mm → WBS, LB, 468-02-107; 35 mm → R2s {15; 24 mm → 4u4; 24 mm → R2s {15
 
-Every curve, box, word and wire group: [1983 - 468-02-107 - M468AJ AUX & MASTER ASSIGN MODULE SCHEMATIC - DRN JP (traced).json](../SCHEMATICS/1983%20-%20468-02-107%20-%20M468AJ%20AUX%20%26%20MASTER%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20JP%20(traced).json) (the CAD file: `1983 - 468-02-107 - M468AJ AUX & MASTER ASSIGN MODULE SCHEMATIC - DRN JP (traced).dxf`).
+Every curve, box, word and wire group: [1983 - 468-02-107 - M468AJ AUX & MASTER ASSIGN MODULE SCHEMATIC - DRN JP (traced).json](../SCHEMATICS/1983%20-%20468-02-107%20-%20M468AJ%20AUX%20%26%20MASTER%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20JP%20%28traced%29.json) (the CAD file: `1983 - 468-02-107 - M468AJ AUX & MASTER ASSIGN MODULE SCHEMATIC - DRN JP (traced).dxf`).
 
 ## Full text
 

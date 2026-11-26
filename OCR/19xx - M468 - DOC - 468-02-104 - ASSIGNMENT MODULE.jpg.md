@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (278, 15)–(432, 84) mm: lIsSUE |DATE · REVISION · App · WBS · WARD-BECK ByBTEMB · DRN: JP 8/82 · M468 AE · ENG_ EDJ · AsSIGNMENT · MODULE · CKD: · APP · SCHEMATIC · ISSUE · SCALE · 468-02-104
 - **Wiring (first pass):** 53 connected wire groups from 296 runs, 1 dotted junctions; labelled ends: 624 mm → PGM2; 414 mm → 30k-; 141 mm → RGM; 104 mm → lIsSUE |DATE; 101 mm → Sisk gisk ?I5K gI5K
 
-Every curve, box, word and wire group: [19xx - M468 - DOC - 468-02-104 - ASSIGNMENT MODULE (traced).json](../SCHEMATICS/19xx%20-%20M468%20-%20DOC%20-%20468-02-104%20-%20ASSIGNMENT%20MODULE%20(traced).json) (the CAD file: `19xx - M468 - DOC - 468-02-104 - ASSIGNMENT MODULE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M468 - DOC - 468-02-104 - ASSIGNMENT MODULE (traced).json](../SCHEMATICS/19xx%20-%20M468%20-%20DOC%20-%20468-02-104%20-%20ASSIGNMENT%20MODULE%20%28traced%29.json) (the CAD file: `19xx - M468 - DOC - 468-02-104 - ASSIGNMENT MODULE (traced).dxf`).
 
 ## Full text
 

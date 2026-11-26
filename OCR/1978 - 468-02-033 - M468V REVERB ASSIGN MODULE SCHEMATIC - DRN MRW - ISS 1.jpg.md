@@ -40,7 +40,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Title block:** (152, 20)–(378, 71) mm: Iss · MOD IcKD: · USEDON · MATL. · WBS WAAD-BECK · DRN: · Mew · DATE OcT 78 · M468v · FFINISH · REVERB · SCALE · SCHEMATIC · TOLst · 468-02-033
 - **Wiring (first pass):** 141 connected wire groups from 736 runs; labelled ends: 51 mm → Iss; 39 mm → LtD; 30 mm → LAMP; 25 mm → M3 OutpUT, M4 output; 24 mm → 125v COMMON
 
-Every curve, box, word and wire group: [1978 - 468-02-033 - M468V REVERB ASSIGN MODULE SCHEMATIC - DRN MRW - ISS 1 (traced).json](../SCHEMATICS/1978%20-%20468-02-033%20-%20M468V%20REVERB%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20MRW%20-%20ISS%201%20(traced).json) (the CAD file: `1978 - 468-02-033 - M468V REVERB ASSIGN MODULE SCHEMATIC - DRN MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 468-02-033 - M468V REVERB ASSIGN MODULE SCHEMATIC - DRN MRW - ISS 1 (traced).json](../SCHEMATICS/1978%20-%20468-02-033%20-%20M468V%20REVERB%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1978 - 468-02-033 - M468V REVERB ASSIGN MODULE SCHEMATIC - DRN MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

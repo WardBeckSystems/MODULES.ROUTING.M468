@@ -37,7 +37,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Title block:** (141, 23)–(431, 69) mm: ISS MOD CKD] · USED ON · MatL · WBS · WARD-BECKBYSTEME [TD · DRLHM · M463BB · DATE.APRIL/86 · Assign MoDULE · FIMISH · REvERB · CKD: · SCHEMATIC · IScA
 - **Wiring (first pass):** 93 connected wire groups from 785 runs, 2 dotted junctions; labelled ends: 194 mm → RR, ez8; 185 mm → Sololcue; 134 mm → 5w6; 132 mm → Sk, Rio, 2k; 106 mm → 51
 
-Every curve, box, word and wire group: [1986 - 468-02-121 - M468BB REVERB ASSIGN MODULE SCHEMATIC - DRN HM - ISS 1 (traced).json](../SCHEMATICS/1986%20-%20468-02-121%20-%20M468BB%20REVERB%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20HM%20-%20ISS%201%20(traced).json) (the CAD file: `1986 - 468-02-121 - M468BB REVERB ASSIGN MODULE SCHEMATIC - DRN HM - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - 468-02-121 - M468BB REVERB ASSIGN MODULE SCHEMATIC - DRN HM - ISS 1 (traced).json](../SCHEMATICS/1986%20-%20468-02-121%20-%20M468BB%20REVERB%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20HM%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1986 - 468-02-121 - M468BB REVERB ASSIGN MODULE SCHEMATIC - DRN HM - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -28,7 +28,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Title block:** (173, 49)–(300, 268) mm: WHEN · MODULE 15 · Systems · WheRE No Loss · 1S · Required · REPLACE Ri - Ris · Jumpers · ANO · With · ShORTing JUMPERS · RELAYS. · BECK · SYSTEMS LTD · WARD
 - **Wiring (first pass):** 18 connected wire groups from 151 runs; labelled ends: 314 mm → DJG, WARD, OCt, Ra |; 136 mm → MATERIAL, ANGLES; 74 mm → ANGLES, SCHEMTIC, 4008, 12; 32 mm → SCHEMTIC, 12, 062; 23 mm → SYSTEMS, LTD
 
-Every curve, box, word and wire group: [1976 - M468 - 468-02-002 - PLACES GIVEN ANGLES IEEMIMBEND RAD UMLESS SPEC (traced).json](../SCHEMATICS/1976%20-%20M468%20-%20468-02-002%20-%20PLACES%20GIVEN%20ANGLES%20IEEMIMBEND%20RAD%20UMLESS%20SPEC%20(traced).json) (the CAD file: `1976 - M468 - 468-02-002 - PLACES GIVEN ANGLES IEEMIMBEND RAD UMLESS SPEC (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M468 - 468-02-002 - PLACES GIVEN ANGLES IEEMIMBEND RAD UMLESS SPEC (traced).json](../SCHEMATICS/1976%20-%20M468%20-%20468-02-002%20-%20PLACES%20GIVEN%20ANGLES%20IEEMIMBEND%20RAD%20UMLESS%20SPEC%20%28traced%29.json) (the CAD file: `1976 - M468 - 468-02-002 - PLACES GIVEN ANGLES IEEMIMBEND RAD UMLESS SPEC (traced).dxf`).
 
 ## Full text
 

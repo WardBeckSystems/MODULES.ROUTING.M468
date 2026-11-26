@@ -23,7 +23,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Words (OCR):** 21 in 12 lines: M468 · HIGH LEVEL SWITCHER · Designed Manufactured · By · Ward-Beck Systems Limited · 841 Progress Avenue · Scarborough, Ontario · (416) 438-6550 · ps · BS · tp · ht
 - **Title block:** (159, 103)–(229, 128) mm: By · Ward-Beck Systems Limited · 841 Progress Avenue
 
-Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p1 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20(2)%20p1%20(traced).json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p1 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -32,7 +32,7 @@ Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2
 - **Outlines:** line 88 rings, 801 straight (1,083 mm) / 112 curved (160 mm); text 349 rings, 2,831 straight (2,884 mm) / 885 curved (1,353 mm)
 - **Words (OCR):** 41 in 26 lines: M468 Teehnical Data · Configuration:- · inputs to · output · Latching:- · Self or external by conditional strapping · Power Requirement:- · 24 · dc unregulated · (negative ground) · 40 · rna relay
 
-Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p2 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20(2)%20p2%20(traced).json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p2 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -42,7 +42,7 @@ Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.8 @ (55.7, 369.9)
 - **Words (OCR):** 227 in 38 lines: M468 CIRCUIT DESCRIPTION · The M468 Switcher module contains an · input to · output relay · switcher. The switcher may be operated directly by depressing · the momentary pushbuttons on the front panel or they may be · remotely operated from · separate remote panel. · Depressing SWl grounds the lower
 
-Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p3 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20(2)%20p3%20(traced).json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p3 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -52,7 +52,7 @@ Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2
 - **Dots (junctions):** 1
 - **Words (OCR):** 206 in 154 lines: 468 · REPLACEABLE PARTS LIST · SYMBOL · DESCRIPTION · MFG · PART NUMBER · CRl · Diode · I.R. · lM4003 · CR2 · Diode
 
-Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p4 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20(2)%20p4%20(traced).json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p4 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -61,7 +61,7 @@ Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2
 - **Outlines:** line 190 rings, 1,079 straight (1,332 mm) / 348 curved (532 mm); text 692 rings, 5,812 straight (6,106 mm) / 1,925 curved (2,946 mm)
 - **Words (OCR):** 111 in 89 lines: Page · M46S Replaceable Parts List · R1 · 10K All resistors 1/4W · Philips · R2 · 10K · unless specified · R3 · 10K otherwise · R4 · 10K
 
-Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p5 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20(2)%20p5%20(traced).json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p5 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -72,7 +72,7 @@ Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2
 - **Dots (junctions):** 2
 - **Words (OCR):** 16 in 16 lines: LJ · ~R\O · UO · roc>o · ~\OK. · ..24 · X~-+--.,---r---+--r---:---- · CR91 · IN~~~~~ · (::,,'11 · 15 · ps
 
-Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p6 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20(2)%20p6%20(traced).json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p6 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -82,7 +82,7 @@ Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2
 - **Dots (junctions):** 3
 - **Words (OCR):** 8 in 8 lines: N'2 · R6 · C.1 · K2. · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p7 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20(2)%20p7%20(traced).json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p7 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -92,7 +92,7 @@ Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2
 - **Dots (junctions):** 3
 - **Words (OCR):** 11 in 10 lines: Lz il · ZR4 · N'i!4 · R8 · lR · K2 · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p8 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20(2)%20p8%20(traced).json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p8 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -104,7 +104,7 @@ Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2
 - **Dots (junctions):** 1
 - **Words (OCR):** 23 in 22 lines: NO _Tel · 01 · l-r · It. · CC · to · 11 · 101£ · ",E..N · MO · YS,e · 1~E.~Ull
 
-Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p9 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20(2)%20p9%20(traced).json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p9 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -116,7 +116,7 @@ Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2
 - **Dots (junctions):** 1
 - **Words (OCR):** 34 in 27 lines: It · (\101£. · V-l · E-tol · MOD uLE · u".>E..D IN · YS, EM · wH£l<E. · NO L..o · REC lP-e.D RE.Pl.A<£ · RIS · 11e.MovE.
 
-Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p10 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20(2)%20p10%20(traced).json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p10 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -127,7 +127,7 @@ Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2
 - **Closed boxes:** 2
 - **Words (OCR):** 40 in 28 lines: VIR~ · EE. · S>S · SW2 · cs · (Nln) · Ll · ES · LETTERS FOR · REFE ENCE ONLY. · IJ=lING · ONLY
 
-Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p11 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20(2)%20p11%20(traced).json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p11 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -139,7 +139,7 @@ Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2
 - **Dots (junctions):** 2
 - **Words (OCR):** 21 in 17 lines: ~V1/ · CR · C-R · K7 · 10 · ,CI:< · 14, 14 _IU · 13 · CO tJI · 05~ · Lm. · ps
 
-Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p12 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20(2)%20p12%20(traced).json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M468 - 8X1 High level Switcher (2) p12 (traced).json](../MANUALS/1970%20-%20M468%20-%208X1%20High%20level%20Switcher%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1970 - M468 - 8X1 High level Switcher (2) p12 (traced).dxf`).
 
 ## Full text
 

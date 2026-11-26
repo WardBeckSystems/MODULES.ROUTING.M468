@@ -35,7 +35,7 @@ Wiki page: [M468](../../../../PAGES/M468.md)
 - **Title block:** (279, 9)–(432, 76) mm: ISSUE DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN PA · M468U · ENG PA · MODULE · CKD · ASSIGNMENT · SCHEMATIC · APP · SCALE · ISSUE · 468 - 02-032
 - **Wiring (first pass):** 57 connected wire groups from 370 runs; labelled ends: 552 mm → INPUT 2, Rie, z0k, RIO; 352 mm → Rok; 292 mm → SWt, SwI, Sw3, SW5; 290 mm → Swe, SWe, SWz, Sw4; 42 mm → Rzo, OUT
 
-Every curve, box, word and wire group: [19xx - 468-02-032 - M468U ASSIGNMENT MODULE SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20468-02-032%20-%20M468U%20ASSIGNMENT%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 468-02-032 - M468U ASSIGNMENT MODULE SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 468-02-032 - M468U ASSIGNMENT MODULE SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20468-02-032%20-%20M468U%20ASSIGNMENT%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 468-02-032 - M468U ASSIGNMENT MODULE SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).dxf`).
 
 ## Full text
 
