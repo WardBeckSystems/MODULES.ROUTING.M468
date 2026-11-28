@@ -113,9 +113,5 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [Ward-Beck systems M468B equalizer schematic 002.kicad_sch](KICAD/Ward-Beck%20systems%20M468B%20equalizer%20schematic%20002.kicad_sch)
 - [index.html](KICAD/index.html)
 
-## Software
-
-- [index.html](SOFTWARE/index.html)
-
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
