@@ -35,6 +35,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `1973 - 468-03-002 - ESCUTCHEON MTG PLATE - DRN ALF - ISS 1.jpg`, `1973 - 468-03-003 - ESCUTCHEON. (SCHADOW SWITCH) - DRN ALF - ISS 3.jpg`, `1976 - 468-03-035 - M468P ESCUTCHEON - DRN MING - ISS 2.jpg`, `1976 - 468-03-036 - M468N ESCUTCHEON - DRN A-F - ISS 2.jpg`, `1982 - 468-03-115 - SWITCH MOUNTING BRACKET - DRN Jo - ISS 1.jpg`, `1984 - 468-03-121 - SWITCH MOUNTING BRACKET - DRN HH - ISS 1.jpg`, `1988 - 468-03-018 - KEY CAP JOINER - DRN DRG - ISS 2.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M468.stl`](MECHANICAL/M468.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M468)
+
+- **Size:** 81.18 × 185.03 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 1 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M468 - front panel.svg`)
+- the drawn panel is 0.24 wide to high, the size 0.44: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M468.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
