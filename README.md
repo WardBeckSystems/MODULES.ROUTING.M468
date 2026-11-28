@@ -4,13 +4,12 @@ Ward-Beck Systems M468, 1970|3. Wiki page: [M468 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 107 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 30 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 83 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 3 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 28 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 106 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 31 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 4 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 82 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 27 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 41 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -27,13 +26,9 @@ _Photographs of the module itself: front, back, inside, racked._
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKcmZqUHk4UFJkakU/view?resourcekey=0-_VeCxliuArSVHhITOGnCKg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKcmZqUHk4UFJkakU&resourcekey=0-_VeCxliuArSVHhITOGnCKg" width="240" alt="1970 - M468 - 8 X 1 selector.jpg"></a><br><sub>1970|3 · 8 X 1 selector</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `19xx - M468AK - Four M468AK modules.jpg`
-
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
-
-Not on Google Drive yet: `1973 - 468-03-002 - ESCUTCHEON MTG PLATE - DRN ALF - ISS 1.jpg`, `1973 - 468-03-003 - ESCUTCHEON. (SCHADOW SWITCH) - DRN ALF - ISS 3.jpg`, `1976 - 468-03-035 - M468P ESCUTCHEON - DRN MING - ISS 2.jpg`, `1976 - 468-03-036 - M468N ESCUTCHEON - DRN A-F - ISS 2.jpg`, `1982 - 468-03-115 - SWITCH MOUNTING BRACKET - DRN Jo - ISS 1.jpg`, `1984 - 468-03-121 - SWITCH MOUNTING BRACKET - DRN HH - ISS 1.jpg`, `1988 - 468-03-018 - KEY CAP JOINER - DRN DRG - ISS 2.jpg`
 
 ## 3-D model
 
@@ -54,13 +49,9 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1QMgcpVFnvh2Y8CEE1SaJcFB11TzYMO2X/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1QMgcpVFnvh2Y8CEE1SaJcFB11TzYMO2X" width="240" alt="19xx - M468 - DOC - 468-02-104 - ASSIGNMENT MODULE.jpg"></a><br><sub>19xx - M468 - DOC - 468-02-104 - ASSIGNMENT MODULE · <a href="SCHEMATICS/19xx%20-%20M468%20-%20DOC%20-%20468-02-104%20-%20ASSIGNMENT%20MODULE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1eO5VDz7oi97L3gvb-IfiE-jeFBThyB8l/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1eO5VDz7oi97L3gvb-IfiE-jeFBThyB8l" width="240" alt="19xx - M468 - DOC - ASSIGN MODULE SCHEMATIC.jpg"></a><br><sub>19xx - M468 - DOC - ASSIGN MODULE SCHEMATIC · <a href="SCHEMATICS/19xx%20-%20M468%20-%20DOC%20-%20ASSIGN%20MODULE%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1970 - 468-02-002 - 8 WAY RELAY SWITCHER SCHEMATIC - DRN DJG - ISS 3.jpg`, `1970 - B 468 - RELAY SWI... SCHEMATIC - DRN DJG.jpg`, `1974 - 468-02-021 - M468H TAPE INPUT SWITCHER - DRN DM - ISS 2.png`, `1976 - 468-02-023 - M468K & M468X ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1.png`, `1976 - 468-02-025 - M468M ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (2).jpg`, `1976 - 468-02-025 - M468M ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (3).jpg`, `1976 - 468-02-025 - M468M ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1.jpg`, `1976 - 468-02-026 - M468N ASSIGN MODULE SCHEMATIC - DRN ELJ - ISS 1.jpg`, `1977 - 468-02-024 - M468L ASSIGNMENT MODULE SCHEMATIC - DRN DB - ENG PA - ISS 1.png`, `1978 - 468-02-033 - M468V REVERB ASSIGN MODULE SCHEMATIC - DRN MRW - ISS 1.jpg`, `1985 - 468-02-120 - M468AY REVERB ASSIGN MODULE SCHEMATIC - DRN AV handwritten, unclear - ISS 1.jpg`, `1986 - 468-02-121 - M468BB REVERB ASSIGN MODULE SCHEMATIC - DRN HM - ISS 1.jpg`, `19xx - 468-02-032 - M468U ASSIGNMENT MODULE SCHEMATIC - DRN PA - ENG PA - ISS 1.jpg`, `Ward-Beck systems M468B equalizer schematic 002.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `M468 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -111,7 +102,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M468 - DOC - ASSIGN MODULE SCHEMATIC.kicad_sch](KICAD/19xx%20-%20M468%20-%20DOC%20-%20ASSIGN%20MODULE%20SCHEMATIC.kicad_sch)
 - [M468.kicad_sym](KICAD/M468.kicad_sym)
 - [Ward-Beck systems M468B equalizer schematic 002.kicad_sch](KICAD/Ward-Beck%20systems%20M468B%20equalizer%20schematic%20002.kicad_sch)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
