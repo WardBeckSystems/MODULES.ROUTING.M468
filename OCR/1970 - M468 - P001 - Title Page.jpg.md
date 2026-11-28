@@ -1,5 +1,5 @@
 # 1970 - M468 - P001 - Title Page.jpg
-Wiki page: [M468](../../../../PAGES/M468.md)
+Wiki page: [M468](../)
 
 
 - **Year:** 1970 (module estimate (labelled))

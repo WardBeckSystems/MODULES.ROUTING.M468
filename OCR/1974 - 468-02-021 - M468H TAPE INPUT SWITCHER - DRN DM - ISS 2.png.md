@@ -1,5 +1,5 @@
 # 1974 - 468-02-021 - M468H TAPE INPUT SWITCHER - DRN DM - ISS 2.png
-Wiki page: [M468](../../../../PAGES/M468.md)
+Wiki page: [M468](../)
 
 
 - **Year:** 1974 (title block date)

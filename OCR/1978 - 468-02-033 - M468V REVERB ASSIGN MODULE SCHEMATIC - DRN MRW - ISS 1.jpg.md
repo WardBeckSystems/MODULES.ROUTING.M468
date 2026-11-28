@@ -1,5 +1,5 @@
 # 1978 - 468-02-033 - M468V REVERB ASSIGN MODULE SCHEMATIC - DRN MRW - ISS 1.jpg
-Wiki page: [M468](../../../../PAGES/M468.md)
+Wiki page: [M468](../)
 
 
 - **Year:** 1978 (title block date)

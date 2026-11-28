@@ -1,5 +1,5 @@
 # 1970 - 468-02-002 - 8 WAY RELAY SWITCHER SCHEMATIC - DRN DJG - ISS 3.jpg
-Wiki page: [M468](../../../../PAGES/M468.md)
+Wiki page: [M468](../)
 
 
 - **Year:** 1970 (title block date)

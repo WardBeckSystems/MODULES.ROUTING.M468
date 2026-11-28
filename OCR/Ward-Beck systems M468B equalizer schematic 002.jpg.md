@@ -1,5 +1,5 @@
 # Ward-Beck systems M468B equalizer schematic 002.jpg
-Wiki page: [M468](../../../../PAGES/M468.md)
+Wiki page: [M468](../)
 
 
 - **Year:** unknown (title block (read by eye))

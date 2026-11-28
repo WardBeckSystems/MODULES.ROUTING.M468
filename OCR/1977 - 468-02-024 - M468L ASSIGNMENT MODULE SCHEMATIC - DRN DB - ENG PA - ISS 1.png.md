@@ -1,5 +1,5 @@
 # 1977 - 468-02-024 - M468L ASSIGNMENT MODULE SCHEMATIC - DRN DB - ENG PA - ISS 1.png
-Wiki page: [M468](../../../../PAGES/M468.md)
+Wiki page: [M468](../)
 
 
 - **Year:** 1977 (title block date)

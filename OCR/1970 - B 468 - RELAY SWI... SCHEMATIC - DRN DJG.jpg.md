@@ -1,5 +1,5 @@
 # 1970 - B 468 - RELAY SWI... SCHEMATIC - DRN DJG.jpg
-Wiki page: [M468](../../../../PAGES/M468.md)
+Wiki page: [M468](../)
 
 
 - **Year:** 1970 (title block date)

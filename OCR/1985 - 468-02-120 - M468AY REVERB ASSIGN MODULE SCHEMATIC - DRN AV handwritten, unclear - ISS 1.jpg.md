@@ -1,5 +1,5 @@
 # 1985 - 468-02-120 - M468AY REVERB ASSIGN MODULE SCHEMATIC - DRN AV handwritten, unclear - ISS 1.jpg
-Wiki page: [M468](../../../../PAGES/M468.md)
+Wiki page: [M468](../)
 
 
 - **Year:** 1985 (title block date)

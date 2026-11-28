@@ -1,5 +1,5 @@
 # 1984 - 468-03-121 - SWITCH MOUNTING BRACKET - DRN HH - ISS 1.jpg
-Wiki page: [M468](../../../../PAGES/M468.md)
+Wiki page: [M468](../)
 
 
 - **Year:** 1984 (title block date)

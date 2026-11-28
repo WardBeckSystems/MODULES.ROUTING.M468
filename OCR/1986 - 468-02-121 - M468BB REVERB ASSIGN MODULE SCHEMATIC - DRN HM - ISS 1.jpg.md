@@ -1,5 +1,5 @@
 # 1986 - 468-02-121 - M468BB REVERB ASSIGN MODULE SCHEMATIC - DRN HM - ISS 1.jpg
-Wiki page: [M468](../../../../PAGES/M468.md)
+Wiki page: [M468](../)
 
 
 - **Year:** 1986 (title block date)

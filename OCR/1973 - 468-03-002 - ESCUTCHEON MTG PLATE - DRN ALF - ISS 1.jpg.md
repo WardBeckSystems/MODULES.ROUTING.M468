@@ -1,5 +1,5 @@
 # 1973 - 468-03-002 - ESCUTCHEON MTG PLATE - DRN ALF - ISS 1.jpg
-Wiki page: [M468](../../../../PAGES/M468.md)
+Wiki page: [M468](../)
 
 
 - **Year:** 1973 (title block date)

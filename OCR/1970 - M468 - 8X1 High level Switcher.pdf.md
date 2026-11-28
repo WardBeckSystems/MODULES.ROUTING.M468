@@ -1,5 +1,5 @@
 # 1970 - M468 - 8X1 High level Switcher.pdf
-Wiki page: [M468](../../../../PAGES/M468.md)
+Wiki page: [M468](../)
 
 
 - **Year:** 1970 (found in this file: "DATE OCt 70")

@@ -1,5 +1,5 @@
 # 1983 - 468-02-107 - M468AJ AUX & MASTER ASSIGN MODULE SCHEMATIC - DRN JP.jpg
-Wiki page: [M468](../../../../PAGES/M468.md)
+Wiki page: [M468](../)
 
 
 - **Year:** 1983 (title block date)

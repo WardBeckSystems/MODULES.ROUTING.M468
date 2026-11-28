@@ -1,5 +1,5 @@
 # 1970 - M468 - 178-06-001 - BEND RAD UNLESS SPECIFED.jpg
-Wiki page: [M468](../../../../PAGES/M468.md)
+Wiki page: [M468](../)
 
 
 - **Year:** 1970 (found in this file: "OCT 70")

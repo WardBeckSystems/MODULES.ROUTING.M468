@@ -1,5 +1,5 @@
 # 1988 - 468-03-018 - KEY CAP JOINER - DRN DRG - ISS 2.jpg
-Wiki page: [M468](../../../../PAGES/M468.md)
+Wiki page: [M468](../)
 
 
 - **Year:** 1988 (title block date)

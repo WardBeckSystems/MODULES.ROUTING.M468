@@ -1,6 +1,6 @@
 # M468 8 Way Relay Switcher · Routing
 
-Ward-Beck Systems M468, 1970|3. Wiki page: [M468 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M468.html)
+Ward-Beck Systems M468, 1970|3. Wiki page: [M468 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M468/)
 
 | Folder | What is in it | Files |
 |---|---|---|

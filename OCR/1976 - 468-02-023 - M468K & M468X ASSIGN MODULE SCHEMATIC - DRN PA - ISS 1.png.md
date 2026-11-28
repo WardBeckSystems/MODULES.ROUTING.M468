@@ -1,5 +1,5 @@
 # 1976 - 468-02-023 - M468K & M468X ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1.png
-Wiki page: [M468](../../../../PAGES/M468.md)
+Wiki page: [M468](../)
 
 
 - **Year:** 1976 (title block date)

@@ -1,5 +1,5 @@
 # 1982 - 468-03-115 - SWITCH MOUNTING BRACKET - DRN Jo - ISS 1.jpg
-Wiki page: [M468](../../../../PAGES/M468.md)
+Wiki page: [M468](../)
 
 
 - **Year:** 1982 (title block date)

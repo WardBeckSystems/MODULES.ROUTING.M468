@@ -1,5 +1,5 @@
 # 1976 - 468-03-036 - M468N ESCUTCHEON - DRN A-F - ISS 2.jpg
-Wiki page: [M468](../../../../PAGES/M468.md)
+Wiki page: [M468](../)
 
 
 - **Year:** 1976 (title block date)

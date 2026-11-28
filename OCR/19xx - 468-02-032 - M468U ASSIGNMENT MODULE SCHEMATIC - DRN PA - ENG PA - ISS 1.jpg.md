@@ -1,5 +1,5 @@
 # 19xx - 468-02-032 - M468U ASSIGNMENT MODULE SCHEMATIC - DRN PA - ENG PA - ISS 1.jpg
-Wiki page: [M468](../../../../PAGES/M468.md)
+Wiki page: [M468](../)
 
 
 - **Year:** unknown (title block (read by eye))
